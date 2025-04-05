@@ -1,0 +1,3947 @@
+PLAYER PERFORMANCE ANALYSIS REPORT
+================================================================================
+
+Player: ADEMIR
+----------------------------------------
+Position: ATACANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 3665.69 ± 3118.84
+Distaltaintensidadem: 265.76 ± 269.81
+MinutosTotais: 66.17 ± 39.39
+DES: 41.58 ± 33.65
+ACE: 14.40 ± 11.01
+Trimp: 132.61 ± 118.57
+PSEXMIN: 433.24 ± 309.30
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 2877.17
+  Away: 4500.59
+  Difference: -1623.42 (-36.1%)
+Distaltaintensidadem:
+  Home: 225.13
+  Away: 308.76
+  Difference: -83.63 (-27.1%)
+MinutosTotais:
+  Home: 55.72
+  Away: 77.23
+  Difference: -21.51 (-27.9%)
+DES:
+  Home: 35.35
+  Away: 48.18
+  Difference: -12.83 (-26.6%)
+ACE:
+  Home: 12.79
+  Away: 16.12
+  Difference: -3.33 (-20.7%)
+Trimp:
+  Home: 112.94
+  Away: 153.43
+  Difference: -40.50 (-26.4%)
+PSEXMIN:
+  Home: 342.90
+  Away: 528.90
+  Difference: -185.99 (-35.2%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 4324.50 ± 2745.71
+Distaltaintensidadem: 344.94 ± 202.09
+MinutosTotais: 82.51 ± 37.86
+DES: 51.63 ± 29.70
+ACE: 19.81 ± 9.04
+Trimp: 153.02 ± 111.92
+PSEXMIN: 579.48 ± 353.01
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 7379.00 ± 0.00
+Distaltaintensidadem: 611.00 ± 0.00
+MinutosTotais: 65.64 ± 0.00
+DES: 87.00 ± 0.00
+ACE: 24.00 ± 0.00
+Trimp: 261.55 ± 0.00
+PSEXMIN: 459.46 ± 0.00
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 2504.32 ± 2780.30
+Distaltaintensidadem: 138.84 ± 207.01
+MinutosTotais: 60.07 ± 41.69
+DES: 27.21 ± 27.96
+ACE: 10.00 ± 10.75
+Trimp: 87.88 ± 98.61
+PSEXMIN: 352.85 ± 288.18
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 5678.50 ± 4081.72
+Distaltaintensidadem: 498.00 ± 413.64
+MinutosTotais: 54.55 ± 39.40
+DES: 62.00 ± 43.81
+ACE: 17.00 ± 12.06
+Trimp: 229.55 ± 160.39
+PSEXMIN: 436.43 ± 315.20
+
+Performance Trends:
+Disttotalm: -2443.00 (-100.0%)
+Distaltaintensidadem: -133.43 (-100.0%)
+MinutosTotais: -42.14 (-100.0%)
+DES: -55.29 (-100.0%)
+ACE: -29.14 (-100.0%)
+Trimp: -82.82 (-100.0%)
+PSEXMIN: -210.70 (-100.0%)
+
+================================================================================
+
+Player: ADERLAN
+----------------------------------------
+Position: LATERAL
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 5973.71 ± 4072.79
+Distaltaintensidadem: 328.49 ± 301.14
+MinutosTotais: 76.53 ± 25.16
+DES: 64.02 ± 46.48
+ACE: 19.76 ± 14.94
+Trimp: 205.81 ± 162.74
+PSEXMIN: 458.34 ± 272.96
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 5260.44
+  Away: 6728.94
+  Difference: -1468.50 (-21.8%)
+Distaltaintensidadem:
+  Home: 276.35
+  Away: 383.71
+  Difference: -107.36 (-28.0%)
+MinutosTotais:
+  Home: 69.41
+  Away: 84.07
+  Difference: -14.66 (-17.4%)
+DES:
+  Home: 61.94
+  Away: 66.24
+  Difference: -4.30 (-6.5%)
+ACE:
+  Home: 21.04
+  Away: 18.41
+  Difference: 2.63 (+14.3%)
+Trimp:
+  Home: 187.85
+  Away: 224.82
+  Difference: -36.97 (-16.4%)
+PSEXMIN:
+  Home: 395.29
+  Away: 525.09
+  Difference: -129.80 (-24.7%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 5483.70 ± 4511.72
+Distaltaintensidadem: 294.40 ± 271.39
+MinutosTotais: 74.38 ± 31.01
+DES: 64.20 ± 50.00
+ACE: 20.30 ± 15.56
+Trimp: 180.92 ± 172.55
+PSEXMIN: 459.96 ± 262.73
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 10142.50 ± 511.24
+Distaltaintensidadem: 866.50 ± 79.90
+MinutosTotais: 94.71 ± 1.51
+DES: 108.50 ± 3.54
+ACE: 37.00 ± 0.00
+Trimp: 338.98 ± 15.10
+PSEXMIN: 709.77 ± 55.63
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 6854.26 ± 3549.26
+Distaltaintensidadem: 358.96 ± 276.30
+MinutosTotais: 81.29 ± 22.29
+DES: 70.89 ± 43.28
+ACE: 21.30 ± 14.07
+Trimp: 246.09 ± 150.23
+PSEXMIN: 495.82 ± 276.55
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 931.75 ± 252.55
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 50.17 ± 1.44
+DES: 8.75 ± 6.80
+ACE: 2.50 ± 2.38
+Trimp: 10.10 ± 10.13
+PSEXMIN: 150.51 ± 4.32
+
+Performance Trends:
+Disttotalm: -71.00 (-6.4%)
+Distaltaintensidadem: -1.00 (-100.0%)
+MinutosTotais: -15.21 (-23.7%)
+DES: +2.00 (+12.5%)
+ACE: +0.00 (+0.0%)
+Trimp: +17.53 (+252.3%)
+PSEXMIN: -174.24 (-54.2%)
+
+================================================================================
+
+Player: AYLON
+----------------------------------------
+Position: ATACANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 3249.97 ± 3843.42
+Distaltaintensidadem: 160.69 ± 228.58
+MinutosTotais: 49.09 ± 43.59
+DES: 34.03 ± 38.18
+ACE: 11.54 ± 12.14
+Trimp: 125.72 ± 154.82
+PSEXMIN: 328.39 ± 377.14
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 3292.78
+  Away: 3204.65
+  Difference: 88.13 (+2.8%)
+Distaltaintensidadem:
+  Home: 198.33
+  Away: 120.82
+  Difference: 77.51 (+64.2%)
+MinutosTotais:
+  Home: 43.06
+  Away: 55.48
+  Difference: -12.42 (-22.4%)
+DES:
+  Home: 35.17
+  Away: 32.82
+  Difference: 2.34 (+7.1%)
+ACE:
+  Home: 13.11
+  Away: 9.88
+  Difference: 3.23 (+32.7%)
+Trimp:
+  Home: 124.82
+  Away: 126.66
+  Difference: -1.85 (-1.5%)
+PSEXMIN:
+  Home: 300.81
+  Away: 357.59
+  Difference: -56.78 (-15.9%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 7881.80 ± 3638.56
+Distaltaintensidadem: 370.10 ± 246.83
+MinutosTotais: 93.67 ± 32.06
+DES: 78.70 ± 33.92
+ACE: 22.80 ± 8.79
+Trimp: 314.41 ± 147.80
+PSEXMIN: 760.42 ± 357.48
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 1538.42 ± 1925.30
+Distaltaintensidadem: 82.95 ± 168.49
+MinutosTotais: 33.75 ± 32.96
+DES: 17.53 ± 22.31
+ACE: 8.00 ± 10.64
+Trimp: 54.03 ± 73.94
+PSEXMIN: 160.10 ± 214.67
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 1425.25 ± 1977.37
+Distaltaintensidadem: 86.75 ± 173.50
+MinutosTotais: 35.05 ± 44.07
+DES: 17.75 ± 24.09
+ACE: 6.00 ± 11.34
+Trimp: 57.34 ± 72.85
+PSEXMIN: 211.85 ± 246.15
+
+Performance Trends:
+Disttotalm: -9538.00 (-100.0%)
+Distaltaintensidadem: -543.00 (-100.0%)
+MinutosTotais: -95.43 (-100.0%)
+DES: -102.00 (-100.0%)
+ACE: -31.00 (-100.0%)
+Trimp: -384.28 (-100.0%)
+PSEXMIN: -858.90 (-100.0%)
+
+================================================================================
+
+Player: CAPIXABA
+----------------------------------------
+Position: ATACANTE
+Total Games: 20
+Home Games: 10
+Away Games: 10
+
+Overall Performance (Mean ± Std):
+Disttotalm: 1949.25 ± 1782.98
+Distaltaintensidadem: 80.25 ± 114.20
+MinutosTotais: 61.39 ± 40.08
+DES: 26.15 ± 22.06
+ACE: 8.05 ± 6.73
+Trimp: 80.86 ± 70.58
+PSEXMIN: 303.12 ± 272.85
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1386.40
+  Away: 2512.10
+  Difference: -1125.70 (-44.8%)
+Distaltaintensidadem:
+  Home: 22.70
+  Away: 137.80
+  Difference: -115.10 (-83.5%)
+MinutosTotais:
+  Home: 60.29
+  Away: 62.50
+  Difference: -2.21 (-3.5%)
+DES:
+  Home: 21.00
+  Away: 31.30
+  Difference: -10.30 (-32.9%)
+ACE:
+  Home: 6.80
+  Away: 9.30
+  Difference: -2.50 (-26.9%)
+Trimp:
+  Home: 65.96
+  Away: 95.75
+  Difference: -29.78 (-31.1%)
+PSEXMIN:
+  Home: 277.18
+  Away: 329.05
+  Difference: -51.86 (-15.8%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 2247.00 ± 1533.35
+Distaltaintensidadem: 104.70 ± 116.63
+MinutosTotais: 82.22 ± 28.09
+DES: 31.30 ± 19.33
+ACE: 9.50 ± 5.72
+Trimp: 93.54 ± 64.81
+PSEXMIN: 405.11 ± 264.14
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 1530.00 ± 2163.75
+Distaltaintensidadem: 72.50 ± 102.53
+MinutosTotais: 23.36 ± 33.04
+DES: 22.00 ± 31.11
+ACE: 7.50 ± 10.61
+Trimp: 56.56 ± 79.99
+PSEXMIN: 93.44 ± 132.15
+
+Coach: Adilson Batista (8 games)
+Disttotalm: 1681.88 ± 2162.98
+Distaltaintensidadem: 51.62 ± 120.83
+MinutosTotais: 44.87 ± 42.97
+DES: 20.75 ± 25.03
+ACE: 6.38 ± 7.65
+Trimp: 71.08 ± 81.84
+PSEXMIN: 228.04 ± 275.71
+
+Performance Trends:
+Disttotalm: -4512.00 (-100.0%)
+Distaltaintensidadem: -113.00 (-100.0%)
+MinutosTotais: -121.10 (-100.0%)
+DES: -62.00 (-100.0%)
+ACE: -9.00 (-100.0%)
+Trimp: -215.58 (-100.0%)
+PSEXMIN: -847.70 (-100.0%)
+
+================================================================================
+
+Player: CARLINHOS
+----------------------------------------
+Position: LATERAL
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 6296.06 ± 3938.24
+Distaltaintensidadem: 265.29 ± 198.10
+MinutosTotais: 79.65 ± 26.64
+DES: 63.29 ± 40.89
+ACE: 18.91 ± 11.57
+Trimp: 275.58 ± 170.54
+PSEXMIN: 496.19 ± 312.72
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 6044.06
+  Away: 6562.88
+  Difference: -518.83 (-7.9%)
+Distaltaintensidadem:
+  Home: 233.72
+  Away: 298.71
+  Difference: -64.98 (-21.8%)
+MinutosTotais:
+  Home: 76.59
+  Away: 82.90
+  Difference: -6.32 (-7.6%)
+DES:
+  Home: 62.22
+  Away: 64.41
+  Difference: -2.19 (-3.4%)
+ACE:
+  Home: 20.17
+  Away: 17.59
+  Difference: 2.58 (+14.7%)
+Trimp:
+  Home: 268.12
+  Away: 283.47
+  Difference: -15.36 (-5.4%)
+PSEXMIN:
+  Home: 398.58
+  Away: 599.54
+  Difference: -200.96 (-33.5%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 2730.80 ± 3731.54
+Distaltaintensidadem: 105.70 ± 172.56
+MinutosTotais: 61.60 ± 34.87
+DES: 30.00 ± 34.50
+ACE: 10.10 ± 8.35
+Trimp: 121.53 ± 154.72
+PSEXMIN: 302.62 ± 328.77
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 848.50 ± 242.54
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 48.19 ± 2.08
+DES: 14.50 ± 7.78
+ACE: 3.50 ± 3.54
+Trimp: 29.27 ± 15.65
+PSEXMIN: 144.57 ± 6.24
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 8224.79 ± 2554.76
+Distaltaintensidadem: 351.32 ± 155.75
+MinutosTotais: 89.66 ± 16.57
+DES: 80.63 ± 34.50
+ACE: 22.95 ± 10.28
+Trimp: 354.49 ± 110.31
+PSEXMIN: 576.43 ± 258.93
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 8771.50 ± 968.95
+Distaltaintensidadem: 388.25 ± 105.11
+MinutosTotais: 92.97 ± 11.42
+DES: 88.50 ± 13.63
+ACE: 29.50 ± 1.29
+Trimp: 409.00 ± 44.67
+PSEXMIN: 774.81 ± 173.73
+
+Performance Trends:
+Disttotalm: -728.00 (-7.3%)
+Distaltaintensidadem: -209.00 (-42.1%)
+MinutosTotais: -0.04 (-0.0%)
+DES: +6.00 (+6.7%)
+ACE: +8.00 (+34.8%)
+Trimp: +0.63 (+0.1%)
+PSEXMIN: -95.75 (-11.1%)
+
+================================================================================
+
+Player: CARLOS FRANÇA
+----------------------------------------
+Position: nan
+Total Games: 6
+Home Games: 4
+Away Games: 2
+
+Overall Performance (Mean ± Std):
+Disttotalm: 2239.17 ± 1890.16
+Distaltaintensidadem: 30.33 ± 60.81
+MinutosTotais: 57.41 ± 48.66
+DES: 23.50 ± 28.41
+ACE: 6.00 ± 7.18
+Trimp: 95.34 ± 75.63
+PSEXMIN: 351.53 ± 309.52
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1958.75
+  Away: 2800.00
+  Difference: -841.25 (-30.0%)
+Distaltaintensidadem:
+  Home: 38.25
+  Away: 14.50
+  Difference: 23.75 (+163.8%)
+MinutosTotais:
+  Home: 39.02
+  Away: 94.19
+  Difference: -55.17 (-58.6%)
+DES:
+  Home: 10.50
+  Away: 49.50
+  Difference: -39.00 (-78.8%)
+ACE:
+  Home: 4.00
+  Away: 10.00
+  Difference: -6.00 (-60.0%)
+Trimp:
+  Home: 64.75
+  Away: 156.52
+  Difference: -91.76 (-58.6%)
+PSEXMIN:
+  Home: 221.86
+  Away: 610.88
+  Difference: -389.02 (-63.7%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (2 games)
+Disttotalm: 2167.00 ± 3064.60
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 53.50 ± 75.66
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 57.42 ± 81.20
+PSEXMIN: 321.00 ± 453.96
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 2275.25 ± 1678.90
+Distaltaintensidadem: 45.50 ± 72.41
+MinutosTotais: 59.37 ± 44.98
+DES: 35.25 ± 28.16
+ACE: 9.00 ± 7.07
+Trimp: 114.30 ± 76.79
+PSEXMIN: 366.80 ± 300.07
+
+Performance Trends:
+Disttotalm: +3501.00 (+0.0%)
+Distaltaintensidadem: +153.00 (+0.0%)
+MinutosTotais: +49.09 (+0.0%)
+DES: +42.00 (+0.0%)
+ACE: +16.00 (+0.0%)
+Trimp: +144.18 (+0.0%)
+PSEXMIN: +245.43 (+0.0%)
+
+================================================================================
+
+Player: CHRISTIAN
+----------------------------------------
+Position: VOLANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 3276.06 ± 3801.82
+Distaltaintensidadem: 126.06 ± 216.40
+MinutosTotais: 65.39 ± 41.62
+DES: 45.94 ± 47.10
+ACE: 13.06 ± 11.96
+Trimp: 118.25 ± 140.77
+PSEXMIN: 417.54 ± 414.55
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 2395.50
+  Away: 4208.41
+  Difference: -1812.91 (-43.1%)
+Distaltaintensidadem:
+  Home: 100.00
+  Away: 153.65
+  Difference: -53.65 (-34.9%)
+MinutosTotais:
+  Home: 54.08
+  Away: 77.37
+  Difference: -23.30 (-30.1%)
+DES:
+  Home: 37.22
+  Away: 55.18
+  Difference: -17.95 (-32.5%)
+ACE:
+  Home: 9.61
+  Away: 16.71
+  Difference: -7.09 (-42.5%)
+Trimp:
+  Home: 91.14
+  Away: 148.74
+  Difference: -57.60 (-38.7%)
+PSEXMIN:
+  Home: 317.74
+  Away: 523.22
+  Difference: -205.47 (-39.3%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 4507.80 ± 4893.10
+Distaltaintensidadem: 115.40 ± 174.04
+MinutosTotais: 69.67 ± 54.92
+DES: 62.40 ± 61.19
+ACE: 15.80 ± 15.56
+Trimp: 166.78 ± 188.02
+PSEXMIN: 510.74 ± 610.65
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 7814.50 ± 4062.33
+Distaltaintensidadem: 429.00 ± 162.63
+MinutosTotais: 66.38 ± 38.55
+DES: 88.50 ± 51.62
+ACE: 9.50 ± 6.36
+Trimp: 239.79 ± 110.23
+PSEXMIN: 605.10 ± 468.50
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 2176.47 ± 2493.07
+Distaltaintensidadem: 83.84 ± 179.63
+MinutosTotais: 64.13 ± 36.21
+DES: 33.63 ± 35.64
+ACE: 12.26 ± 10.51
+Trimp: 73.38 ± 83.95
+PSEXMIN: 342.90 ± 281.18
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 3150.50 ± 4766.79
+Distaltaintensidadem: 201.75 ± 396.18
+MinutosTotais: 60.20 ± 45.94
+DES: 42.00 ± 48.05
+ACE: 11.75 ± 13.40
+Trimp: 138.02 ± 193.97
+PSEXMIN: 445.34 ± 438.99
+
+Performance Trends:
+Disttotalm: -790.00 (-47.8%)
+Distaltaintensidadem: -4.00 (-40.0%)
+MinutosTotais: -15.21 (-23.7%)
+DES: -21.00 (-52.5%)
+ACE: -8.00 (-53.3%)
+Trimp: -23.20 (-38.3%)
+PSEXMIN: -174.24 (-54.2%)
+
+================================================================================
+
+Player: DAVID
+----------------------------------------
+Position: VOLANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 2302.76 ± 3094.95
+Distaltaintensidadem: 61.50 ± 107.46
+MinutosTotais: 46.22 ± 38.06
+DES: 26.84 ± 31.13
+ACE: 10.41 ± 11.89
+Trimp: 84.24 ± 121.88
+PSEXMIN: 205.05 ± 222.86
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 2038.28
+  Away: 2582.80
+  Difference: -544.52 (-21.1%)
+Distaltaintensidadem:
+  Home: 38.06
+  Away: 86.33
+  Difference: -48.27 (-55.9%)
+MinutosTotais:
+  Home: 37.41
+  Away: 55.55
+  Difference: -18.14 (-32.7%)
+DES:
+  Home: 25.33
+  Away: 28.44
+  Difference: -3.10 (-10.9%)
+ACE:
+  Home: 11.61
+  Away: 9.13
+  Difference: 2.48 (+27.2%)
+Trimp:
+  Home: 73.14
+  Away: 96.00
+  Difference: -22.86 (-23.8%)
+PSEXMIN:
+  Home: 142.42
+  Away: 271.36
+  Difference: -128.95 (-47.5%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 1238.30 ± 1040.81
+Distaltaintensidadem: 35.70 ± 71.63
+MinutosTotais: 54.13 ± 37.24
+DES: 21.00 ± 17.22
+ACE: 9.10 ± 7.40
+Trimp: 36.20 ± 33.13
+PSEXMIN: 195.14 ± 187.73
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 1075.00 ± 140.01
+Distaltaintensidadem: 1.50 ± 2.12
+MinutosTotais: 71.25 ± 34.69
+DES: 18.50 ± 7.78
+ACE: 6.50 ± 0.71
+Trimp: 19.07 ± 0.00
+PSEXMIN: 213.75 ± 104.06
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 3477.03 ± 3757.60
+Distaltaintensidadem: 94.35 ± 128.44
+MinutosTotais: 49.16 ± 37.25
+DES: 36.44 ± 37.34
+ACE: 13.69 ± 14.20
+Trimp: 134.13 ± 146.81
+PSEXMIN: 252.51 ± 252.60
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: +0.00 (+0.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: ERICK
+----------------------------------------
+Position: nan
+Total Games: 6
+Home Games: 4
+Away Games: 2
+
+Overall Performance (Mean ± Std):
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 6.33 ± 15.51
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 31.67 ± 77.57
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+Distaltaintensidadem:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+MinutosTotais:
+  Home: 0.00
+  Away: 19.00
+  Difference: -19.00 (-100.0%)
+DES:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+ACE:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+Trimp:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+PSEXMIN:
+  Home: 0.00
+  Away: 95.00
+  Difference: -95.00 (-100.0%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (2 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 9.50 ± 19.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 47.50 ± 95.00
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: +0.00 (+0.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: EVERTON MORELI
+----------------------------------------
+Position: nan
+Total Games: 6
+Home Games: 4
+Away Games: 2
+
+Overall Performance (Mean ± Std):
+Disttotalm: 1666.00 ± 2061.53
+Distaltaintensidadem: 7.17 ± 17.55
+MinutosTotais: 49.23 ± 54.16
+DES: 15.00 ± 26.46
+ACE: 4.17 ± 8.01
+Trimp: 56.96 ± 67.58
+PSEXMIN: 312.30 ± 352.28
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1083.50
+  Away: 2831.00
+  Difference: -1747.50 (-61.7%)
+Distaltaintensidadem:
+  Home: 0.00
+  Away: 21.50
+  Difference: -21.50 (-100.0%)
+MinutosTotais:
+  Home: 26.75
+  Away: 94.19
+  Difference: -67.44 (-71.6%)
+DES:
+  Home: 0.00
+  Away: 45.00
+  Difference: -45.00 (-100.0%)
+ACE:
+  Home: 0.00
+  Away: 12.50
+  Difference: -12.50 (-100.0%)
+Trimp:
+  Home: 19.96
+  Away: 130.97
+  Difference: -111.02 (-84.8%)
+PSEXMIN:
+  Home: 187.25
+  Away: 562.41
+  Difference: -375.16 (-66.7%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (2 games)
+Disttotalm: 2167.00 ± 3064.60
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 53.50 ± 75.66
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 39.92 ± 56.45
+PSEXMIN: 374.50 ± 529.62
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 1415.50 ± 1923.94
+Distaltaintensidadem: 10.75 ± 21.50
+MinutosTotais: 47.10 ± 54.43
+DES: 22.50 ± 30.69
+ACE: 6.25 ± 9.46
+Trimp: 65.49 ± 79.11
+PSEXMIN: 281.20 ± 330.85
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: +0.00 (+0.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: FELIPE GUILHERME
+----------------------------------------
+Position: LATERAL
+Total Games: 24
+Home Games: 12
+Away Games: 12
+
+Overall Performance (Mean ± Std):
+Disttotalm: 429.42 ± 1113.78
+Distaltaintensidadem: 36.58 ± 111.60
+MinutosTotais: 16.31 ± 30.04
+DES: 6.12 ± 16.51
+ACE: 2.83 ± 6.88
+Trimp: 15.03 ± 36.33
+PSEXMIN: 82.43 ± 182.90
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 0.00
+  Away: 858.83
+  Difference: -858.83 (-100.0%)
+Distaltaintensidadem:
+  Home: 0.00
+  Away: 73.17
+  Difference: -73.17 (-100.0%)
+MinutosTotais:
+  Home: 1.67
+  Away: 30.94
+  Difference: -29.28 (-94.6%)
+DES:
+  Home: 0.00
+  Away: 12.25
+  Difference: -12.25 (-100.0%)
+ACE:
+  Home: 0.00
+  Away: 5.67
+  Difference: -5.67 (-100.0%)
+Trimp:
+  Home: 0.00
+  Away: 30.05
+  Difference: -30.05 (-100.0%)
+PSEXMIN:
+  Home: 0.00
+  Away: 164.87
+  Difference: -164.87 (-100.0%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 891.30 ± 1601.13
+Distaltaintensidadem: 57.00 ± 145.76
+MinutosTotais: 27.33 ± 39.76
+DES: 11.20 ± 22.82
+ACE: 4.60 ± 8.07
+Trimp: 27.19 ± 47.74
+PSEXMIN: 148.84 ± 254.92
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Coach: Adilson Batista (8 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 348.25 ± 696.50
+Distaltaintensidadem: 77.00 ± 154.00
+MinutosTotais: 29.50 ± 25.58
+DES: 8.75 ± 17.50
+ACE: 5.50 ± 11.00
+Trimp: 22.17 ± 44.34
+PSEXMIN: 122.50 ± 148.41
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: +0.00 (+0.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: FERNANDO LEAL
+----------------------------------------
+Position: GOLEIRO
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 27.80 ± 23.63
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 90.66 ± 137.66
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+Distaltaintensidadem:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+MinutosTotais:
+  Home: 32.03
+  Away: 23.57
+  Difference: 8.46 (+35.9%)
+DES:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+ACE:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+Trimp:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+PSEXMIN:
+  Home: 108.90
+  Away: 71.33
+  Difference: 37.57 (+52.7%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 14.33 ± 24.58
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 35.50 ± 89.08
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 15.33 ± 21.68
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 61.33 ± 86.74
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 38.18 ± 20.51
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 132.38 ± 163.93
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 15.00 ± 17.32
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 45.00 ± 51.96
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: +0.00 (+0.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: GERSON MAGRÃO
+----------------------------------------
+Position: MEIA
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 5205.51 ± 3816.63
+Distaltaintensidadem: 310.66 ± 293.21
+MinutosTotais: 64.81 ± 31.62
+DES: 60.43 ± 43.15
+ACE: 23.60 ± 15.81
+Trimp: 188.28 ± 144.35
+PSEXMIN: 418.51 ± 324.53
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 4726.00
+  Away: 5713.24
+  Difference: -987.24 (-17.3%)
+Distaltaintensidadem:
+  Home: 283.00
+  Away: 339.94
+  Difference: -56.94 (-16.8%)
+MinutosTotais:
+  Home: 60.81
+  Away: 69.04
+  Difference: -8.23 (-11.9%)
+DES:
+  Home: 56.17
+  Away: 64.94
+  Difference: -8.77 (-13.5%)
+ACE:
+  Home: 24.83
+  Away: 22.29
+  Difference: 2.54 (+11.4%)
+Trimp:
+  Home: 167.99
+  Away: 209.76
+  Difference: -41.77 (-19.9%)
+PSEXMIN:
+  Home: 385.69
+  Away: 453.27
+  Difference: -67.58 (-14.9%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 4127.30 ± 3580.65
+Distaltaintensidadem: 225.60 ± 320.44
+MinutosTotais: 65.86 ± 32.00
+DES: 58.70 ± 44.76
+ACE: 26.70 ± 15.64
+Trimp: 153.90 ± 147.53
+PSEXMIN: 396.47 ± 300.73
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 2371.00 ± 1975.66
+Distaltaintensidadem: 107.50 ± 150.61
+MinutosTotais: 48.19 ± 2.08
+DES: 30.00 ± 29.70
+ACE: 17.00 ± 16.97
+Trimp: 74.02 ± 80.21
+PSEXMIN: 70.08 ± 99.11
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 6559.47 ± 3835.32
+Distaltaintensidadem: 409.42 ± 274.09
+MinutosTotais: 67.68 ± 35.90
+DES: 67.79 ± 45.51
+ACE: 24.84 ± 16.94
+Trimp: 237.29 ± 140.23
+PSEXMIN: 495.76 ± 346.48
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 2887.00 ± 3009.58
+Distaltaintensidadem: 155.75 ± 250.21
+MinutosTotais: 56.83 ± 14.18
+DES: 45.00 ± 32.83
+ACE: 13.25 ± 8.22
+Trimp: 98.57 ± 110.15
+PSEXMIN: 280.90 ± 230.59
+
+Performance Trends:
+Disttotalm: -427.00 (-31.5%)
+Distaltaintensidadem: -76.00 (-100.0%)
+MinutosTotais: -15.21 (-23.7%)
+DES: +7.00 (+31.8%)
+ACE: +1.00 (+9.1%)
+Trimp: -23.10 (-42.5%)
+PSEXMIN: -174.24 (-54.2%)
+
+================================================================================
+
+Player: GIOVANI
+----------------------------------------
+Position: LATERAL
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 6262.43 ± 4162.36
+Distaltaintensidadem: 430.26 ± 370.75
+MinutosTotais: 72.76 ± 42.72
+DES: 85.60 ± 58.51
+ACE: 24.00 ± 17.83
+Trimp: 233.44 ± 152.39
+PSEXMIN: 506.48 ± 375.76
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 5790.72
+  Away: 6761.88
+  Difference: -971.16 (-14.4%)
+Distaltaintensidadem:
+  Home: 396.89
+  Away: 465.59
+  Difference: -68.70 (-14.8%)
+MinutosTotais:
+  Home: 65.15
+  Away: 80.82
+  Difference: -15.67 (-19.4%)
+DES:
+  Home: 84.89
+  Away: 86.35
+  Difference: -1.46 (-1.7%)
+ACE:
+  Home: 24.28
+  Away: 23.71
+  Difference: 0.57 (+2.4%)
+Trimp:
+  Home: 220.41
+  Away: 247.23
+  Difference: -26.82 (-10.8%)
+PSEXMIN:
+  Home: 435.05
+  Away: 582.11
+  Difference: -147.06 (-25.3%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 7205.90 ± 3657.84
+Distaltaintensidadem: 455.60 ± 348.02
+MinutosTotais: 97.44 ± 45.65
+DES: 101.20 ± 51.19
+ACE: 29.50 ± 15.18
+Trimp: 271.29 ± 137.36
+PSEXMIN: 692.12 ± 392.27
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 10865.50 ± 627.20
+Distaltaintensidadem: 1061.00 ± 59.40
+MinutosTotais: 94.71 ± 1.51
+DES: 135.00 ± 5.66
+ACE: 37.50 ± 7.78
+Trimp: 315.80 ± 22.18
+PSEXMIN: 757.66 ± 12.10
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 6319.95 ± 4172.23
+Distaltaintensidadem: 423.16 ± 350.99
+MinutosTotais: 66.07 ± 38.72
+DES: 85.37 ± 61.84
+ACE: 23.16 ± 19.45
+Trimp: 242.56 ± 158.96
+PSEXMIN: 464.60 ± 356.13
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 1329.00 ± 1439.57
+Distaltaintensidadem: 85.25 ± 166.51
+MinutosTotais: 31.86 ± 23.94
+DES: 23.00 ± 17.78
+ACE: 7.50 ± 5.57
+Trimp: 54.30 ± 46.65
+PSEXMIN: 115.75 ± 77.38
+
+Performance Trends:
+Disttotalm: -4013.00 (-81.8%)
+Distaltaintensidadem: -118.00 (-97.5%)
+MinutosTotais: -72.01 (-59.5%)
+DES: -68.00 (-69.4%)
+ACE: -10.00 (-43.5%)
+Trimp: -154.58 (-66.2%)
+PSEXMIN: -700.44 (-82.6%)
+
+================================================================================
+
+Player: GLAUCO
+----------------------------------------
+Position: GOLEIRO
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 34.57 ± 46.11
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.84 ± 4.99
+PSEXMIN: 133.55 ± 214.47
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+Distaltaintensidadem:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+MinutosTotais:
+  Home: 32.17
+  Away: 36.69
+  Difference: -4.51 (-12.3%)
+DES:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+ACE:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+Trimp:
+  Home: 1.64
+  Away: 0.00
+  Difference: 1.64 (+0.0%)
+PSEXMIN:
+  Home: 102.50
+  Away: 166.43
+  Difference: -63.93 (-38.4%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 68.11 ± 49.11
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 175.19 ± 246.42
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 27.97 ± 46.60
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 1.55 ± 6.77
+PSEXMIN: 134.34 ± 228.47
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 24.50 ± 16.76
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 92.50 ± 77.62
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: -117.58 (-100.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: JORI
+----------------------------------------
+Position: GOLEIRO
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 28.98 ± 46.05
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 145.69 ± 277.06
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+Distaltaintensidadem:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+MinutosTotais:
+  Home: 30.99
+  Away: 26.83
+  Difference: 4.16 (+15.5%)
+DES:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+ACE:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+Trimp:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+PSEXMIN:
+  Home: 143.21
+  Away: 148.31
+  Difference: -5.10 (-3.4%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 92.52 ± 40.57
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 415.12 ± 377.24
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 11.37 ± 26.99
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 49.89 ± 129.44
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: -117.58 (-100.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: JOÃO RICARDO
+----------------------------------------
+Position: GOLEIRO
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 69.56 ± 42.63
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 439.82 ± 304.01
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+Distaltaintensidadem:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+MinutosTotais:
+  Home: 61.58
+  Away: 78.02
+  Difference: -16.43 (-21.1%)
+DES:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+ACE:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+Trimp:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+PSEXMIN:
+  Home: 350.19
+  Away: 534.73
+  Difference: -184.54 (-34.5%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 35.04 ± 48.37
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 185.04 ± 274.28
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 40.39 ± 57.12
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 282.73 ± 399.85
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 89.90 ± 21.90
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 574.19 ± 221.44
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 73.87 ± 49.30
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 517.11 ± 345.13
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: -117.58 (-100.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: -587.92 (-100.0%)
+
+================================================================================
+
+Player: JUDIVAN
+----------------------------------------
+Position: ATACANTE
+Total Games: 20
+Home Games: 10
+Away Games: 10
+
+Overall Performance (Mean ± Std):
+Disttotalm: 3619.15 ± 2661.34
+Distaltaintensidadem: 114.00 ± 137.94
+MinutosTotais: 74.46 ± 39.03
+DES: 43.60 ± 31.14
+ACE: 14.75 ± 9.63
+Trimp: 152.07 ± 103.82
+PSEXMIN: 447.70 ± 346.22
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 3331.50
+  Away: 3906.80
+  Difference: -575.30 (-14.7%)
+Distaltaintensidadem:
+  Home: 125.20
+  Away: 102.80
+  Difference: 22.40 (+21.8%)
+MinutosTotais:
+  Home: 59.65
+  Away: 89.28
+  Difference: -29.63 (-33.2%)
+DES:
+  Home: 41.60
+  Away: 45.60
+  Difference: -4.00 (-8.8%)
+ACE:
+  Home: 13.70
+  Away: 15.80
+  Difference: -2.10 (-13.3%)
+Trimp:
+  Home: 143.59
+  Away: 160.55
+  Difference: -16.96 (-10.6%)
+PSEXMIN:
+  Home: 334.48
+  Away: 560.92
+  Difference: -226.43 (-40.4%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 4606.30 ± 2890.60
+Distaltaintensidadem: 156.30 ± 147.98
+MinutosTotais: 83.72 ± 42.99
+DES: 59.10 ± 28.52
+ACE: 17.80 ± 9.22
+Trimp: 198.94 ± 105.03
+PSEXMIN: 538.59 ± 370.82
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 2823.50 ± 3087.94
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 77.28 ± 39.06
+DES: 8.00 ± 8.49
+ACE: 3.00 ± 4.24
+Trimp: 62.42 ± 47.74
+PSEXMIN: 441.64 ± 413.88
+
+Coach: Adilson Batista (8 games)
+Disttotalm: 2584.12 ± 2078.99
+Distaltaintensidadem: 89.62 ± 128.62
+MinutosTotais: 62.19 ± 35.25
+DES: 33.12 ± 27.30
+ACE: 13.88 ± 9.30
+Trimp: 115.89 ± 88.42
+PSEXMIN: 335.60 ± 312.92
+
+Performance Trends:
+Disttotalm: +1403.00 (+112.4%)
+Distaltaintensidadem: +47.00 (+940.0%)
+MinutosTotais: +36.12 (+56.2%)
+DES: +15.00 (+78.9%)
+ACE: +11.00 (+275.0%)
+Trimp: +59.17 (+69.3%)
+PSEXMIN: +381.42 (+118.6%)
+
+================================================================================
+
+Player: JUNINHO
+----------------------------------------
+Position: VOLANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 8640.74 ± 3492.97
+Distaltaintensidadem: 534.97 ± 261.90
+MinutosTotais: 85.82 ± 28.20
+DES: 95.31 ± 42.50
+ACE: 23.17 ± 14.37
+Trimp: 281.15 ± 111.53
+PSEXMIN: 619.19 ± 286.34
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 7248.22
+  Away: 10115.18
+  Difference: -2866.95 (-28.3%)
+Distaltaintensidadem:
+  Home: 435.00
+  Away: 640.82
+  Difference: -205.82 (-32.1%)
+MinutosTotais:
+  Home: 77.62
+  Away: 94.50
+  Difference: -16.88 (-17.9%)
+DES:
+  Home: 87.89
+  Away: 103.18
+  Difference: -15.29 (-14.8%)
+ACE:
+  Home: 27.44
+  Away: 18.65
+  Difference: 8.80 (+47.2%)
+Trimp:
+  Home: 239.28
+  Away: 325.48
+  Difference: -86.20 (-26.5%)
+PSEXMIN:
+  Home: 498.95
+  Away: 746.49
+  Difference: -247.54 (-33.2%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 9223.30 ± 3126.98
+Distaltaintensidadem: 437.20 ± 202.51
+MinutosTotais: 94.40 ± 35.70
+DES: 109.60 ± 34.65
+ACE: 29.30 ± 13.94
+Trimp: 292.64 ± 82.71
+PSEXMIN: 721.64 ± 313.62
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 11023.50 ± 481.54
+Distaltaintensidadem: 733.50 ± 243.95
+MinutosTotais: 94.71 ± 1.51
+DES: 119.00 ± 8.49
+ACE: 11.50 ± 3.54
+Trimp: 335.37 ± 16.73
+PSEXMIN: 662.95 ± 10.59
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 8225.84 ± 3886.51
+Distaltaintensidadem: 535.53 ± 280.87
+MinutosTotais: 82.78 ± 24.50
+DES: 86.47 ± 47.37
+ACE: 21.00 ± 14.92
+Trimp: 274.04 ± 130.90
+PSEXMIN: 600.08 ± 282.61
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 7963.75 ± 3408.41
+Distaltaintensidadem: 677.50 ± 275.56
+MinutosTotais: 74.37 ± 32.46
+DES: 89.75 ± 42.37
+ACE: 24.00 ± 12.99
+Trimp: 259.09 ± 119.04
+PSEXMIN: 431.95 ± 263.82
+
+Performance Trends:
+Disttotalm: -54.00 (-0.5%)
+Distaltaintensidadem: +506.00 (+100.6%)
+MinutosTotais: -0.04 (-0.0%)
+DES: -7.00 (-5.0%)
+ACE: -25.00 (-49.0%)
+Trimp: +24.07 (+7.5%)
+PSEXMIN: -191.14 (-22.3%)
+
+================================================================================
+
+Player: LEANDRO DONIZETE
+----------------------------------------
+Position: VOLANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 6560.12 ± 4330.14
+Distaltaintensidadem: 188.57 ± 137.98
+MinutosTotais: 71.32 ± 38.41
+DES: 63.00 ± 49.47
+ACE: 16.60 ± 14.85
+Trimp: 281.15 ± 185.00
+PSEXMIN: 494.14 ± 339.49
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 7122.60
+  Away: 5964.56
+  Difference: 1158.04 (+19.4%)
+Distaltaintensidadem:
+  Home: 191.62
+  Away: 185.35
+  Difference: 6.26 (+3.4%)
+MinutosTotais:
+  Home: 73.04
+  Away: 69.49
+  Difference: 3.55 (+5.1%)
+DES:
+  Home: 66.56
+  Away: 59.24
+  Difference: 7.32 (+12.4%)
+ACE:
+  Home: 20.06
+  Away: 12.94
+  Difference: 7.11 (+55.0%)
+Trimp:
+  Home: 300.09
+  Away: 261.09
+  Difference: 39.00 (+14.9%)
+PSEXMIN:
+  Home: 502.69
+  Away: 485.08
+  Difference: 17.62 (+3.6%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 6669.60 ± 4595.75
+Distaltaintensidadem: 183.70 ± 132.27
+MinutosTotais: 76.16 ± 40.15
+DES: 74.00 ± 52.80
+ACE: 23.30 ± 18.31
+Trimp: 275.22 ± 192.34
+PSEXMIN: 552.14 ± 355.86
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 8867.00 ± 1757.87
+Distaltaintensidadem: 264.50 ± 118.09
+MinutosTotais: 94.71 ± 1.51
+DES: 98.00 ± 21.21
+ACE: 17.50 ± 2.12
+Trimp: 372.64 ± 74.38
+PSEXMIN: 710.84 ± 78.31
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 7240.96 ± 4051.62
+Distaltaintensidadem: 205.90 ± 136.20
+MinutosTotais: 74.52 ± 36.05
+DES: 63.16 ± 48.35
+ACE: 15.63 ± 13.28
+Trimp: 311.01 ± 175.41
+PSEXMIN: 511.13 ± 323.68
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 1899.00 ± 3758.11
+Distaltaintensidadem: 80.50 ± 161.00
+MinutosTotais: 32.28 ± 39.36
+DES: 17.25 ± 34.50
+ACE: 4.00 ± 8.00
+Trimp: 108.39 ± 198.22
+PSEXMIN: 160.07 ± 320.13
+
+Performance Trends:
+Disttotalm: -9135.00 (-99.3%)
+Distaltaintensidadem: -262.00 (-100.0%)
+MinutosTotais: -46.35 (-48.6%)
+DES: -95.00 (-100.0%)
+ACE: -33.00 (-100.0%)
+Trimp: -364.78 (-92.7%)
+PSEXMIN: -858.90 (-100.0%)
+
+================================================================================
+
+Player: LIMA
+----------------------------------------
+Position: ZAGUEIRO
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 204.80 ± 681.98
+Distaltaintensidadem: 4.31 ± 24.50
+MinutosTotais: 16.58 ± 31.42
+DES: 2.06 ± 7.22
+ACE: 0.91 ± 3.07
+Trimp: 13.50 ± 40.59
+PSEXMIN: 91.91 ± 185.08
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 35.83
+  Away: 383.71
+  Difference: -347.87 (-90.7%)
+Distaltaintensidadem:
+  Home: 8.06
+  Away: 0.35
+  Difference: 7.70 (+2182.4%)
+MinutosTotais:
+  Home: 8.61
+  Away: 25.02
+  Difference: -16.41 (-65.6%)
+DES:
+  Home: 0.33
+  Away: 3.88
+  Difference: -3.55 (-91.4%)
+ACE:
+  Home: 0.89
+  Away: 0.94
+  Difference: -0.05 (-5.6%)
+Trimp:
+  Home: 3.54
+  Away: 24.05
+  Difference: -20.51 (-85.3%)
+PSEXMIN:
+  Home: 45.28
+  Away: 141.28
+  Difference: -96.01 (-68.0%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 134.74 ± 455.72
+Distaltaintensidadem: 7.63 ± 33.27
+MinutosTotais: 20.63 ± 31.05
+DES: 0.79 ± 2.42
+ACE: 1.00 ± 3.70
+Trimp: 8.33 ± 23.18
+PSEXMIN: 110.11 ± 180.31
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 1152.00 ± 1621.67
+Distaltaintensidadem: 1.50 ± 3.00
+MinutosTotais: 47.10 ± 54.43
+DES: 14.25 ± 18.19
+ACE: 3.25 ± 3.77
+Trimp: 78.56 ± 94.36
+PSEXMIN: 281.20 ± 330.85
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: +0.00 (+0.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: LINCOLN
+----------------------------------------
+Position: MEIA
+Total Games: 15
+Home Games: 8
+Away Games: 7
+
+Overall Performance (Mean ± Std):
+Disttotalm: 1295.27 ± 2188.40
+Distaltaintensidadem: 64.07 ± 164.72
+MinutosTotais: 39.69 ± 26.30
+DES: 19.00 ± 28.27
+ACE: 9.07 ± 12.10
+Trimp: 46.30 ± 91.74
+PSEXMIN: 149.72 ± 171.91
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1703.88
+  Away: 828.29
+  Difference: 875.59 (+105.7%)
+Distaltaintensidadem:
+  Home: 118.12
+  Away: 2.29
+  Difference: 115.84 (+5068.0%)
+MinutosTotais:
+  Home: 43.10
+  Away: 35.80
+  Difference: 7.30 (+20.4%)
+DES:
+  Home: 26.00
+  Away: 11.00
+  Difference: 15.00 (+136.4%)
+ACE:
+  Home: 12.50
+  Away: 5.14
+  Difference: 7.36 (+143.1%)
+Trimp:
+  Home: 65.98
+  Away: 23.81
+  Difference: 42.16 (+177.0%)
+PSEXMIN:
+  Home: 186.76
+  Away: 107.39
+  Difference: 79.38 (+73.9%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (11 games)
+Disttotalm: 1601.45 ± 2492.57
+Distaltaintensidadem: 87.36 ± 189.07
+MinutosTotais: 45.02 ± 24.50
+DES: 23.45 ± 31.91
+ACE: 11.73 ± 13.21
+Trimp: 58.68 ± 105.30
+PSEXMIN: 176.85 ± 189.95
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 453.25 ± 591.86
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 25.04 ± 28.93
+DES: 6.75 ± 7.89
+ACE: 1.75 ± 2.06
+Trimp: 12.25 ± 14.21
+PSEXMIN: 75.11 ± 86.79
+
+Performance Trends:
+Disttotalm: -1870.00 (-100.0%)
+Distaltaintensidadem: -27.00 (-100.0%)
+MinutosTotais: -48.63 (-100.0%)
+DES: -35.00 (-100.0%)
+ACE: -16.00 (-100.0%)
+Trimp: -55.67 (-100.0%)
+PSEXMIN: -145.89 (-100.0%)
+
+================================================================================
+
+Player: LUAN
+----------------------------------------
+Position: ATACANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 5409.85 ± 4649.61
+Distaltaintensidadem: 396.69 ± 394.45
+MinutosTotais: 60.94 ± 41.19
+DES: 64.44 ± 60.62
+ACE: 20.86 ± 19.38
+Trimp: 209.17 ± 183.06
+PSEXMIN: 437.02 ± 365.13
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 5958.78
+  Away: 4828.63
+  Difference: 1130.15 (+23.4%)
+Distaltaintensidadem:
+  Home: 442.00
+  Away: 348.72
+  Difference: 93.28 (+26.8%)
+MinutosTotais:
+  Home: 62.64
+  Away: 59.13
+  Difference: 3.51 (+5.9%)
+DES:
+  Home: 73.33
+  Away: 55.03
+  Difference: 18.30 (+33.3%)
+ACE:
+  Home: 24.56
+  Away: 16.95
+  Difference: 7.60 (+44.9%)
+Trimp:
+  Home: 232.43
+  Away: 184.53
+  Difference: 47.90 (+26.0%)
+PSEXMIN:
+  Home: 447.71
+  Away: 425.70
+  Difference: 22.01 (+5.2%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 3066.60 ± 4040.57
+Distaltaintensidadem: 238.40 ± 361.49
+MinutosTotais: 48.71 ± 43.60
+DES: 47.20 ± 61.40
+ACE: 14.90 ± 20.30
+Trimp: 113.04 ± 168.66
+PSEXMIN: 319.29 ± 355.20
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 0.00 ± 0.00
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 0.00 ± 0.00
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 6617.67 ± 4245.07
+Distaltaintensidadem: 467.48 ± 375.90
+MinutosTotais: 71.32 ± 34.96
+DES: 72.92 ± 57.45
+ACE: 24.32 ± 18.38
+Trimp: 261.22 ± 164.68
+PSEXMIN: 494.32 ± 330.49
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 8235.75 ± 5496.49
+Distaltaintensidadem: 654.50 ± 463.41
+MinutosTotais: 72.65 ± 48.49
+DES: 99.50 ± 68.41
+ACE: 29.75 ± 20.07
+Trimp: 306.83 ± 204.61
+PSEXMIN: 677.66 ± 453.38
+
+Performance Trends:
+Disttotalm: +7926.00 (+280.1%)
+Distaltaintensidadem: +546.00 (+239.5%)
+MinutosTotais: +31.09 (+48.4%)
+DES: +102.00 (+237.2%)
+ACE: +18.00 (+94.7%)
+Trimp: +320.98 (+374.0%)
+PSEXMIN: +537.04 (+167.0%)
+
+================================================================================
+
+Player: LUCAS BOLÍVIA
+----------------------------------------
+Position: nan
+Total Games: 6
+Home Games: 4
+Away Games: 2
+
+Overall Performance (Mean ± Std):
+Disttotalm: 1593.83 ± 1926.55
+Distaltaintensidadem: 1.67 ± 4.08
+MinutosTotais: 42.90 ± 49.49
+DES: 16.33 ± 29.19
+ACE: 4.00 ± 7.62
+Trimp: 88.89 ± 101.31
+PSEXMIN: 247.56 ± 294.06
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1000.00
+  Away: 2781.50
+  Difference: -1781.50 (-64.0%)
+Distaltaintensidadem:
+  Home: 0.00
+  Away: 5.00
+  Difference: -5.00 (-100.0%)
+MinutosTotais:
+  Home: 26.75
+  Away: 75.19
+  Difference: -48.44 (-64.4%)
+DES:
+  Home: 0.00
+  Away: 49.00
+  Difference: -49.00 (-100.0%)
+ACE:
+  Home: 0.00
+  Away: 12.00
+  Difference: -12.00 (-100.0%)
+Trimp:
+  Home: 34.71
+  Away: 197.25
+  Difference: -162.54 (-82.4%)
+PSEXMIN:
+  Home: 160.50
+  Away: 421.68
+  Difference: -261.18 (-61.9%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (2 games)
+Disttotalm: 2000.00 ± 2828.43
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 53.50 ± 75.66
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 69.42 ± 98.17
+PSEXMIN: 321.00 ± 453.96
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 1390.75 ± 1831.49
+Distaltaintensidadem: 2.50 ± 5.00
+MinutosTotais: 37.60 ± 45.40
+DES: 24.50 ± 33.96
+ACE: 6.00 ± 8.98
+Trimp: 98.62 ± 116.25
+PSEXMIN: 210.84 ± 264.63
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: +0.00 (+0.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: MARQUINHOS
+----------------------------------------
+Position: ATACANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 3044.91 ± 3024.81
+Distaltaintensidadem: 213.34 ± 262.25
+MinutosTotais: 54.78 ± 32.06
+DES: 34.94 ± 34.69
+ACE: 11.31 ± 14.60
+Trimp: 85.64 ± 91.06
+PSEXMIN: 305.98 ± 245.42
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 2492.28
+  Away: 3630.06
+  Difference: -1137.78 (-31.3%)
+Distaltaintensidadem:
+  Home: 196.67
+  Away: 231.00
+  Difference: -34.33 (-14.9%)
+MinutosTotais:
+  Home: 53.64
+  Away: 55.98
+  Difference: -2.33 (-4.2%)
+DES:
+  Home: 29.56
+  Away: 40.65
+  Difference: -11.09 (-27.3%)
+ACE:
+  Home: 10.72
+  Away: 11.94
+  Difference: -1.22 (-10.2%)
+Trimp:
+  Home: 76.75
+  Away: 95.05
+  Difference: -18.30 (-19.3%)
+PSEXMIN:
+  Home: 277.54
+  Away: 336.10
+  Difference: -58.56 (-17.4%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 3589.90 ± 3229.68
+Distaltaintensidadem: 226.50 ± 275.22
+MinutosTotais: 59.73 ± 36.04
+DES: 46.30 ± 38.62
+ACE: 12.10 ± 11.07
+Trimp: 84.84 ± 70.30
+PSEXMIN: 375.58 ± 309.31
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 2708.50 ± 3406.13
+Distaltaintensidadem: 224.00 ± 316.78
+MinutosTotais: 46.42 ± 0.43
+DES: 29.50 ± 38.89
+ACE: 8.50 ± 12.02
+Trimp: 52.23 ± 54.12
+PSEXMIN: 231.48 ± 129.15
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 2758.05 ± 3103.82
+Distaltaintensidadem: 219.32 ± 266.53
+MinutosTotais: 51.79 ± 30.96
+DES: 30.79 ± 33.86
+ACE: 11.89 ± 17.44
+Trimp: 83.03 ± 100.54
+PSEXMIN: 271.30 ± 227.15
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 3213.25 ± 3017.88
+Distaltaintensidadem: 146.75 ± 292.83
+MinutosTotais: 60.73 ± 42.03
+DES: 29.00 ± 34.28
+ACE: 8.00 ± 12.33
+Trimp: 116.70 ± 124.23
+PSEXMIN: 333.99 ± 227.91
+
+Performance Trends:
+Disttotalm: -1331.00 (-15.4%)
+Distaltaintensidadem: -135.00 (-18.7%)
+MinutosTotais: -23.04 (-24.1%)
+DES: -38.00 (-36.2%)
+ACE: -6.00 (-18.8%)
+Trimp: +93.12 (+48.4%)
+PSEXMIN: -352.17 (-41.0%)
+
+================================================================================
+
+Player: MATHEUS FERRAZ
+----------------------------------------
+Position: ZAGUEIRO
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 7872.26 ± 2284.19
+Distaltaintensidadem: 308.94 ± 152.38
+MinutosTotais: 93.86 ± 24.36
+DES: 71.89 ± 23.09
+ACE: 21.20 ± 8.16
+Trimp: 330.47 ± 100.11
+PSEXMIN: 758.27 ± 282.98
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 7554.61
+  Away: 8208.59
+  Difference: -653.98 (-8.0%)
+Distaltaintensidadem:
+  Home: 302.22
+  Away: 316.06
+  Difference: -13.84 (-4.4%)
+MinutosTotais:
+  Home: 87.96
+  Away: 100.10
+  Difference: -12.14 (-12.1%)
+DES:
+  Home: 70.83
+  Away: 73.00
+  Difference: -2.17 (-3.0%)
+ACE:
+  Home: 21.17
+  Away: 21.24
+  Difference: -0.07 (-0.3%)
+Trimp:
+  Home: 316.97
+  Away: 344.77
+  Difference: -27.80 (-8.1%)
+PSEXMIN:
+  Home: 708.72
+  Away: 810.74
+  Difference: -102.01 (-12.6%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 7398.70 ± 3048.02
+Distaltaintensidadem: 318.80 ± 180.15
+MinutosTotais: 98.03 ± 34.93
+DES: 75.30 ± 17.87
+ACE: 24.00 ± 8.06
+Trimp: 313.75 ± 136.32
+PSEXMIN: 799.69 ± 356.59
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 9041.00 ± 424.26
+Distaltaintensidadem: 537.00 ± 104.65
+MinutosTotais: 94.71 ± 1.51
+DES: 89.00 ± 9.90
+ACE: 22.00 ± 7.07
+Trimp: 339.77 ± 7.40
+PSEXMIN: 852.36 ± 13.61
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 7894.00 ± 2190.26
+Distaltaintensidadem: 268.53 ± 122.90
+MinutosTotais: 90.76 ± 22.06
+DES: 66.47 ± 26.69
+ACE: 18.63 ± 8.32
+Trimp: 331.53 ± 94.77
+PSEXMIN: 701.05 ± 280.89
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 8368.50 ± 653.93
+Distaltaintensidadem: 362.25 ± 149.62
+MinutosTotais: 97.72 ± 2.81
+DES: 80.50 ± 16.05
+ACE: 26.00 ± 5.35
+Trimp: 362.61 ± 39.32
+PSEXMIN: 879.50 ± 25.33
+
+Performance Trends:
+Disttotalm: +7526.00 (+599.7%)
+Distaltaintensidadem: +392.00 (+1451.9%)
+MinutosTotais: +31.09 (+48.4%)
+DES: +72.00 (+232.3%)
+ACE: +15.00 (+78.9%)
+Trimp: +351.83 (+936.6%)
+PSEXMIN: +537.04 (+167.0%)
+
+================================================================================
+
+Player: MATHEUS SABINO
+----------------------------------------
+Position: ZAGUEIRO
+Total Games: 24
+Home Games: 12
+Away Games: 12
+
+Overall Performance (Mean ± Std):
+Disttotalm: 810.17 ± 1559.90
+Distaltaintensidadem: 22.19 ± 61.42
+MinutosTotais: 24.71 ± 37.80
+DES: 12.50 ± 20.41
+ACE: 6.10 ± 11.04
+Trimp: 32.44 ± 62.66
+PSEXMIN: 113.74 ± 192.51
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 399.92
+  Away: 1220.42
+  Difference: -820.50 (-67.2%)
+Distaltaintensidadem:
+  Home: 15.62
+  Away: 28.75
+  Difference: -13.12 (-45.7%)
+MinutosTotais:
+  Home: 17.75
+  Away: 31.67
+  Difference: -13.92 (-43.9%)
+DES:
+  Home: 8.50
+  Away: 16.50
+  Difference: -8.00 (-48.5%)
+ACE:
+  Home: 5.38
+  Away: 6.83
+  Difference: -1.46 (-21.3%)
+Trimp:
+  Home: 15.44
+  Away: 49.44
+  Difference: -34.00 (-68.8%)
+PSEXMIN:
+  Home: 65.04
+  Away: 162.43
+  Difference: -97.40 (-60.0%)
+
+Performance Under Different Coaches:
+
+Coach: Ricardo Drubscky (1 games)
+Disttotalm: 0.00 ± nan
+Distaltaintensidadem: 0.00 ± nan
+MinutosTotais: 0.00 ± nan
+DES: 0.00 ± nan
+ACE: 0.00 ± nan
+Trimp: 0.00 ± nan
+PSEXMIN: 0.00 ± nan
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 950.42 ± 1710.01
+Distaltaintensidadem: 27.87 ± 68.23
+MinutosTotais: 28.51 ± 40.44
+DES: 14.68 ± 22.10
+ACE: 7.45 ± 12.06
+Trimp: 39.21 ± 68.80
+PSEXMIN: 132.85 ± 208.87
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 346.50 ± 693.00
+Distaltaintensidadem: 0.75 ± 1.50
+MinutosTotais: 12.85 ± 25.69
+DES: 5.25 ± 10.50
+ACE: 1.25 ± 2.50
+Trimp: 8.40 ± 16.80
+PSEXMIN: 51.38 ± 102.77
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: +0.00 (+0.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: MATHEUSINHO
+----------------------------------------
+Position: MEIA
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 3318.49 ± 3613.47
+Distaltaintensidadem: 179.33 ± 233.53
+MinutosTotais: 47.03 ± 36.51
+DES: 31.06 ± 35.92
+ACE: 9.82 ± 10.80
+Trimp: 103.63 ± 109.04
+PSEXMIN: 301.96 ± 286.49
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 4043.06
+  Away: 2551.31
+  Difference: 1491.74 (+58.5%)
+Distaltaintensidadem:
+  Home: 234.67
+  Away: 120.74
+  Difference: 113.93 (+94.4%)
+MinutosTotais:
+  Home: 48.11
+  Away: 45.89
+  Difference: 2.22 (+4.8%)
+DES:
+  Home: 42.94
+  Away: 18.47
+  Difference: 24.47 (+132.5%)
+ACE:
+  Home: 11.89
+  Away: 7.62
+  Difference: 4.27 (+55.9%)
+Trimp:
+  Home: 135.17
+  Away: 70.24
+  Difference: 64.94 (+92.5%)
+PSEXMIN:
+  Home: 319.48
+  Away: 283.42
+  Difference: 36.06 (+12.7%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 350.00 ± 756.09
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 25.50 ± 43.63
+DES: 0.10 ± 0.32
+ACE: 0.00 ± 0.00
+Trimp: 11.14 ± 23.48
+PSEXMIN: 157.47 ± 277.29
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 2195.00 ± 3104.20
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 52.45 ± 74.18
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 46.32 ± 65.50
+PSEXMIN: 367.15 ± 519.23
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 4186.91 ± 3263.47
+Distaltaintensidadem: 248.19 ± 231.36
+MinutosTotais: 55.03 ± 24.79
+DES: 43.74 ± 32.85
+ACE: 14.51 ± 9.70
+Trimp: 137.77 ± 101.76
+PSEXMIN: 333.97 ± 252.63
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 7176.50 ± 4931.12
+Distaltaintensidadem: 390.25 ± 280.99
+MinutosTotais: 60.14 ± 40.95
+DES: 63.75 ± 43.21
+ACE: 17.00 ± 12.83
+Trimp: 201.39 ± 136.76
+PSEXMIN: 478.59 ± 325.88
+
+Performance Trends:
+Disttotalm: +11122.00 (+0.0%)
+Distaltaintensidadem: +619.00 (+0.0%)
+MinutosTotais: +40.39 (+80.8%)
+DES: +95.00 (+0.0%)
+ACE: +17.00 (+0.0%)
+Trimp: +283.73 (+0.0%)
+PSEXMIN: +473.12 (+189.2%)
+
+================================================================================
+
+Player: MESSIAS
+----------------------------------------
+Position: ZAGUEIRO
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 7766.66 ± 1942.03
+Distaltaintensidadem: 212.00 ± 98.68
+MinutosTotais: 95.11 ± 23.21
+DES: 55.06 ± 20.74
+ACE: 13.74 ± 6.87
+Trimp: 336.34 ± 79.57
+PSEXMIN: 829.27 ± 264.44
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 7875.89
+  Away: 7651.00
+  Difference: 224.89 (+2.9%)
+Distaltaintensidadem:
+  Home: 217.06
+  Away: 206.65
+  Difference: 10.41 (+5.0%)
+MinutosTotais:
+  Home: 89.14
+  Away: 101.43
+  Difference: -12.29 (-12.1%)
+DES:
+  Home: 55.17
+  Away: 54.94
+  Difference: 0.23 (+0.4%)
+ACE:
+  Home: 13.17
+  Away: 14.35
+  Difference: -1.19 (-8.3%)
+Trimp:
+  Home: 339.31
+  Away: 333.20
+  Difference: 6.10 (+1.8%)
+PSEXMIN:
+  Home: 760.06
+  Away: 902.56
+  Difference: -142.50 (-15.8%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 8408.40 ± 420.29
+Distaltaintensidadem: 252.50 ± 79.55
+MinutosTotais: 104.26 ± 30.27
+DES: 70.00 ± 10.88
+ACE: 17.10 ± 6.30
+Trimp: 363.37 ± 18.21
+PSEXMIN: 947.56 ± 273.59
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 8082.00 ± 434.16
+Distaltaintensidadem: 240.00 ± 79.20
+MinutosTotais: 94.71 ± 1.51
+DES: 56.50 ± 10.61
+ACE: 10.50 ± 2.12
+Trimp: 329.05 ± 6.32
+PSEXMIN: 852.36 ± 13.61
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 7862.37 ± 1957.87
+Distaltaintensidadem: 206.05 ± 104.20
+MinutosTotais: 90.24 ± 22.03
+DES: 50.63 ± 21.18
+ACE: 12.89 ± 7.18
+Trimp: 339.10 ± 84.39
+PSEXMIN: 777.53 ± 281.13
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 5550.00 ± 3332.07
+Distaltaintensidadem: 125.00 ± 88.55
+MinutosTotais: 95.58 ± 3.62
+DES: 38.00 ± 23.02
+ACE: 11.00 ± 6.83
+Trimp: 259.30 ± 132.58
+PSEXMIN: 767.75 ± 157.13
+
+Performance Trends:
+Disttotalm: +261.00 (+3.2%)
+Distaltaintensidadem: -15.00 (-7.7%)
+MinutosTotais: -0.04 (-0.0%)
+DES: -13.00 (-16.2%)
+ACE: -8.00 (-30.8%)
+Trimp: +18.40 (+5.2%)
+PSEXMIN: -95.75 (-11.1%)
+
+================================================================================
+
+Player: MÁRCIO ADRIANO
+----------------------------------------
+Position: nan
+Total Games: 5
+Home Games: 3
+Away Games: 2
+
+Overall Performance (Mean ± Std):
+Disttotalm: 1960.40 ± 2067.64
+Distaltaintensidadem: 3.00 ± 5.20
+MinutosTotais: 59.08 ± 54.22
+DES: 19.20 ± 38.10
+ACE: 3.60 ± 7.50
+Trimp: 72.20 ± 71.83
+PSEXMIN: 295.38 ± 271.08
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1333.33
+  Away: 2901.00
+  Difference: -1567.67 (-54.0%)
+Distaltaintensidadem:
+  Home: 0.00
+  Away: 7.50
+  Difference: -7.50 (-100.0%)
+MinutosTotais:
+  Home: 35.67
+  Away: 94.19
+  Difference: -58.52 (-62.1%)
+DES:
+  Home: 0.00
+  Away: 48.00
+  Difference: -48.00 (-100.0%)
+ACE:
+  Home: 0.00
+  Away: 9.00
+  Difference: -9.00 (-100.0%)
+Trimp:
+  Home: 28.92
+  Away: 137.12
+  Difference: -108.20 (-78.9%)
+PSEXMIN:
+  Home: 178.33
+  Away: 470.96
+  Difference: -292.63 (-62.1%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (1 games)
+Disttotalm: 4000.00 ± nan
+Distaltaintensidadem: 0.00 ± nan
+MinutosTotais: 107.00 ± nan
+DES: 0.00 ± nan
+ACE: 0.00 ± nan
+Trimp: 86.77 ± nan
+PSEXMIN: 535.00 ± nan
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 1450.50 ± 1991.70
+Distaltaintensidadem: 3.75 ± 5.68
+MinutosTotais: 47.10 ± 54.43
+DES: 24.00 ± 42.21
+ACE: 4.50 ± 8.35
+Trimp: 68.56 ± 82.40
+PSEXMIN: 235.48 ± 272.14
+
+Performance Trends:
+Disttotalm: -4000.00 (-100.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: -107.00 (-100.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: -86.77 (-100.0%)
+PSEXMIN: -535.00 (-100.0%)
+
+================================================================================
+
+Player: NORBERTO
+----------------------------------------
+Position: LATERAL
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 5011.77 ± 4267.58
+Distaltaintensidadem: 271.63 ± 276.49
+MinutosTotais: 59.16 ± 39.01
+DES: 51.14 ± 47.88
+ACE: 16.03 ± 16.58
+Trimp: 200.53 ± 176.80
+PSEXMIN: 423.13 ± 368.62
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 6413.83
+  Away: 3527.24
+  Difference: 2886.60 (+81.8%)
+Distaltaintensidadem:
+  Home: 334.44
+  Away: 205.12
+  Difference: 129.33 (+63.1%)
+MinutosTotais:
+  Home: 68.03
+  Away: 49.78
+  Difference: 18.25 (+36.7%)
+DES:
+  Home: 69.56
+  Away: 31.65
+  Difference: 37.91 (+119.8%)
+ACE:
+  Home: 24.28
+  Away: 7.29
+  Difference: 16.98 (+232.8%)
+Trimp:
+  Home: 262.25
+  Away: 135.17
+  Difference: 127.08 (+94.0%)
+PSEXMIN:
+  Home: 497.46
+  Away: 344.43
+  Difference: 153.02 (+44.4%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 7289.50 ± 4185.46
+Distaltaintensidadem: 377.70 ± 274.57
+MinutosTotais: 83.70 ± 24.46
+DES: 73.00 ± 51.94
+ACE: 24.50 ± 18.76
+Trimp: 271.28 ± 174.18
+PSEXMIN: 660.34 ± 304.93
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 1437.00 ± 2032.22
+Distaltaintensidadem: 97.50 ± 137.89
+MinutosTotais: 14.46 ± 20.45
+DES: 17.00 ± 24.04
+ACE: 4.00 ± 5.66
+Trimp: 68.83 ± 97.33
+PSEXMIN: 57.83 ± 81.79
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 3272.89 ± 3694.51
+Distaltaintensidadem: 205.05 ± 287.89
+MinutosTotais: 42.84 ± 37.19
+DES: 33.11 ± 40.22
+ACE: 10.26 ± 14.53
+Trimp: 136.20 ± 160.66
+PSEXMIN: 250.93 ± 307.99
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 9364.50 ± 594.57
+Distaltaintensidadem: 409.75 ± 159.28
+MinutosTotais: 97.72 ± 2.81
+DES: 99.25 ± 21.78
+ACE: 28.25 ± 6.18
+Trimp: 395.04 ± 18.24
+PSEXMIN: 830.69 ± 62.33
+
+Performance Trends:
+Disttotalm: -306.00 (-3.1%)
+Distaltaintensidadem: -73.00 (-13.4%)
+MinutosTotais: -0.04 (-0.0%)
+DES: +3.00 (+2.7%)
+ACE: -9.00 (-21.4%)
+Trimp: +7.98 (+2.0%)
+PSEXMIN: -0.36 (-0.0%)
+
+================================================================================
+
+Player: PAULÃO
+----------------------------------------
+Position: ZAGUEIRO
+Total Games: 22
+Home Games: 11
+Away Games: 11
+
+Overall Performance (Mean ± Std):
+Disttotalm: 1733.76 ± 2387.92
+Distaltaintensidadem: 35.26 ± 76.53
+MinutosTotais: 54.63 ± 24.86
+DES: 24.80 ± 26.00
+ACE: 10.06 ± 12.78
+Trimp: 101.46 ± 106.91
+PSEXMIN: 200.82 ± 171.74
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 2225.52
+  Away: 1242.00
+  Difference: 983.52 (+79.2%)
+Distaltaintensidadem:
+  Home: 59.33
+  Away: 11.18
+  Difference: 48.15 (+430.6%)
+MinutosTotais:
+  Home: 54.77
+  Away: 54.48
+  Difference: 0.29 (+0.5%)
+DES:
+  Home: 30.33
+  Away: 19.27
+  Difference: 11.06 (+57.4%)
+ACE:
+  Home: 12.85
+  Away: 7.27
+  Difference: 5.58 (+76.7%)
+Trimp:
+  Home: 125.35
+  Away: 77.57
+  Difference: 47.77 (+61.6%)
+PSEXMIN:
+  Home: 200.50
+  Away: 201.14
+  Difference: -0.64 (-0.3%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (18 games)
+Disttotalm: 1912.37 ± 2616.68
+Distaltaintensidadem: 42.37 ± 83.26
+MinutosTotais: 53.39 ± 26.03
+DES: 28.26 ± 27.54
+ACE: 11.63 ± 13.64
+Trimp: 107.18 ± 117.14
+PSEXMIN: 198.00 ± 177.10
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 930.00 ± 250.33
+Distaltaintensidadem: 3.25 ± 6.50
+MinutosTotais: 60.19 ± 20.88
+DES: 9.25 ± 6.34
+ACE: 3.00 ± 2.71
+Trimp: 75.72 ± 34.23
+PSEXMIN: 213.50 ± 168.71
+
+Performance Trends:
+Disttotalm: +1170.00 (+0.0%)
+Distaltaintensidadem: +13.00 (+0.0%)
+MinutosTotais: +49.09 (+0.0%)
+DES: +17.00 (+0.0%)
+ACE: +7.00 (+0.0%)
+Trimp: +86.08 (+0.0%)
+PSEXMIN: +196.35 (+0.0%)
+
+================================================================================
+
+Player: RAFAEL LIMA
+----------------------------------------
+Position: ZAGUEIRO
+Total Games: 10
+Home Games: 6
+Away Games: 4
+
+Overall Performance (Mean ± Std):
+Disttotalm: 2443.70 ± 3200.63
+Distaltaintensidadem: 43.80 ± 86.20
+MinutosTotais: 53.41 ± 48.32
+DES: 26.40 ± 34.41
+ACE: 7.90 ± 9.45
+Trimp: 112.10 ± 148.33
+PSEXMIN: 284.49 ± 334.67
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1946.33
+  Away: 3189.75
+  Difference: -1243.42 (-39.0%)
+Distaltaintensidadem:
+  Home: 46.00
+  Away: 40.50
+  Difference: 5.50 (+13.6%)
+MinutosTotais:
+  Home: 39.59
+  Away: 74.14
+  Difference: -34.55 (-46.6%)
+DES:
+  Home: 24.83
+  Away: 28.75
+  Difference: -3.92 (-13.6%)
+ACE:
+  Home: 9.00
+  Away: 6.25
+  Difference: 2.75 (+44.0%)
+Trimp:
+  Home: 90.88
+  Away: 143.93
+  Difference: -53.04 (-36.9%)
+PSEXMIN:
+  Home: 214.21
+  Away: 389.91
+  Difference: -175.70 (-45.1%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 2443.70 ± 3200.63
+Distaltaintensidadem: 43.80 ± 86.20
+MinutosTotais: 53.41 ± 48.32
+DES: 26.40 ± 34.41
+ACE: 7.90 ± 9.45
+Trimp: 112.10 ± 148.33
+PSEXMIN: 284.49 ± 334.67
+
+Performance Trends:
+Disttotalm: -8662.00 (-100.0%)
+Distaltaintensidadem: -256.00 (-100.0%)
+MinutosTotais: -95.43 (-100.0%)
+DES: -98.00 (-100.0%)
+ACE: -29.00 (-100.0%)
+Trimp: -386.90 (-100.0%)
+PSEXMIN: -858.90 (-100.0%)
+
+================================================================================
+
+Player: RAFAEL MOURA
+----------------------------------------
+Position: ATACANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 4848.20 ± 3497.96
+Distaltaintensidadem: 169.77 ± 166.30
+MinutosTotais: 63.25 ± 34.26
+DES: 41.00 ± 32.30
+ACE: 12.94 ± 10.71
+Trimp: 162.55 ± 119.57
+PSEXMIN: 437.41 ± 294.13
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 5095.61
+  Away: 4586.24
+  Difference: 509.38 (+11.1%)
+Distaltaintensidadem:
+  Home: 166.89
+  Away: 172.82
+  Difference: -5.93 (-3.4%)
+MinutosTotais:
+  Home: 63.37
+  Away: 63.13
+  Difference: 0.23 (+0.4%)
+DES:
+  Home: 44.00
+  Away: 37.82
+  Difference: 6.18 (+16.3%)
+ACE:
+  Home: 12.78
+  Away: 13.12
+  Difference: -0.34 (-2.6%)
+Trimp:
+  Home: 174.10
+  Away: 150.33
+  Difference: 23.77 (+15.8%)
+PSEXMIN:
+  Home: 430.11
+  Away: 445.15
+  Difference: -15.04 (-3.4%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 4312.30 ± 3255.48
+Distaltaintensidadem: 128.80 ± 144.15
+MinutosTotais: 66.96 ± 40.82
+DES: 30.30 ± 31.69
+ACE: 10.10 ± 10.39
+Trimp: 146.56 ± 122.92
+PSEXMIN: 466.17 ± 313.10
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 9226.00 ± 0.00
+Distaltaintensidadem: 333.00 ± 0.00
+MinutosTotais: 93.64 ± 0.00
+DES: 81.00 ± 0.00
+ACE: 33.00 ± 0.00
+Trimp: 348.45 ± 0.00
+PSEXMIN: 702.28 ± 198.64
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 3697.63 ± 3061.44
+Distaltaintensidadem: 146.63 ± 177.58
+MinutosTotais: 50.85 ± 29.09
+DES: 36.47 ± 30.23
+ACE: 10.47 ± 8.85
+Trimp: 129.32 ± 104.97
+PSEXMIN: 311.61 ± 228.54
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 9464.25 ± 337.19
+Distaltaintensidadem: 300.50 ± 111.12
+MinutosTotais: 97.72 ± 2.81
+DES: 69.25 ± 26.20
+ACE: 21.75 ± 8.34
+Trimp: 267.46 ± 70.94
+PSEXMIN: 830.69 ± 62.33
+
+Performance Trends:
+Disttotalm: -262.00 (-2.7%)
+Distaltaintensidadem: -78.00 (-20.0%)
+MinutosTotais: -0.04 (-0.0%)
+DES: -15.00 (-17.6%)
+ACE: -5.00 (-16.7%)
+Trimp: -23.48 (-6.6%)
+PSEXMIN: -0.36 (-0.0%)
+
+================================================================================
+
+Player: RAFAEL OLLER
+----------------------------------------
+Position: nan
+Total Games: 6
+Home Games: 4
+Away Games: 2
+
+Overall Performance (Mean ± Std):
+Disttotalm: 1681.50 ± 2093.26
+Distaltaintensidadem: 1.67 ± 3.20
+MinutosTotais: 49.23 ± 54.16
+DES: 12.17 ± 21.86
+ACE: 2.33 ± 3.83
+Trimp: 77.22 ± 89.27
+PSEXMIN: 310.62 ± 340.97
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1083.50
+  Away: 2877.50
+  Difference: -1794.00 (-62.3%)
+Distaltaintensidadem:
+  Home: 0.00
+  Away: 5.00
+  Difference: -5.00 (-100.0%)
+MinutosTotais:
+  Home: 26.75
+  Away: 94.19
+  Difference: -67.44 (-71.6%)
+DES:
+  Home: 0.00
+  Away: 36.50
+  Difference: -36.50 (-100.0%)
+ACE:
+  Home: 0.00
+  Away: 7.00
+  Difference: -7.00 (-100.0%)
+Trimp:
+  Home: 27.67
+  Away: 176.32
+  Difference: -148.65 (-84.3%)
+PSEXMIN:
+  Home: 160.50
+  Away: 610.88
+  Difference: -450.38 (-73.7%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (2 games)
+Disttotalm: 2167.00 ± 3064.60
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 53.50 ± 75.66
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 55.33 ± 78.25
+PSEXMIN: 321.00 ± 453.96
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 1438.75 ± 1984.09
+Distaltaintensidadem: 2.50 ± 3.79
+MinutosTotais: 47.10 ± 54.43
+DES: 18.25 ± 25.46
+ACE: 3.50 ± 4.36
+Trimp: 88.16 ± 103.75
+PSEXMIN: 305.44 ± 353.50
+
+Performance Trends:
+Disttotalm: +0.00 (+0.0%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: +0.00 (+0.0%)
+DES: +0.00 (+0.0%)
+ACE: +0.00 (+0.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: +0.00 (+0.0%)
+
+================================================================================
+
+Player: RENAN OLIVEIRA
+----------------------------------------
+Position: MEIA
+Total Games: 20
+Home Games: 10
+Away Games: 10
+
+Overall Performance (Mean ± Std):
+Disttotalm: 2165.00 ± 1874.20
+Distaltaintensidadem: 63.40 ± 109.18
+MinutosTotais: 57.81 ± 35.43
+DES: 32.35 ± 26.58
+ACE: 12.75 ± 11.37
+Trimp: 47.41 ± 50.57
+PSEXMIN: 286.07 ± 230.61
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1402.90
+  Away: 2927.10
+  Difference: -1524.20 (-52.1%)
+Distaltaintensidadem:
+  Home: 45.50
+  Away: 81.30
+  Difference: -35.80 (-44.0%)
+MinutosTotais:
+  Home: 52.91
+  Away: 62.71
+  Difference: -9.80 (-15.6%)
+DES:
+  Home: 22.10
+  Away: 42.60
+  Difference: -20.50 (-48.1%)
+ACE:
+  Home: 8.60
+  Away: 16.90
+  Difference: -8.30 (-49.1%)
+Trimp:
+  Home: 23.47
+  Away: 71.35
+  Difference: -47.88 (-67.1%)
+PSEXMIN:
+  Home: 219.24
+  Away: 352.91
+  Difference: -133.67 (-37.9%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 2220.00 ± 1526.90
+Distaltaintensidadem: 41.10 ± 59.83
+MinutosTotais: 61.24 ± 30.72
+DES: 32.20 ± 17.71
+ACE: 13.40 ± 9.62
+Trimp: 44.78 ± 43.16
+PSEXMIN: 265.99 ± 196.78
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 0.00 ± 0.00
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 12.50 ± 17.68
+DES: 0.00 ± 0.00
+ACE: 0.00 ± 0.00
+Trimp: 0.00 ± 0.00
+PSEXMIN: 62.50 ± 88.39
+
+Coach: Adilson Batista (8 games)
+Disttotalm: 2637.50 ± 2222.18
+Distaltaintensidadem: 107.12 ± 153.97
+MinutosTotais: 64.84 ± 38.60
+DES: 40.62 ± 33.72
+ACE: 15.12 ± 13.36
+Trimp: 62.55 ± 60.27
+PSEXMIN: 367.06 ± 266.62
+
+Performance Trends:
+Disttotalm: -455.00 (-36.6%)
+Distaltaintensidadem: +0.00 (+0.0%)
+MinutosTotais: -14.21 (-22.1%)
+DES: -11.00 (-50.0%)
+ACE: -4.00 (-44.4%)
+Trimp: -17.80 (-56.3%)
+PSEXMIN: -71.05 (-22.1%)
+
+================================================================================
+
+Player: RICARDO
+----------------------------------------
+Position: ZAGUEIRO
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 2319.29 ± 2119.23
+Distaltaintensidadem: 72.97 ± 113.16
+MinutosTotais: 63.04 ± 32.68
+DES: 32.00 ± 27.55
+ACE: 13.91 ± 12.62
+Trimp: 88.41 ± 91.91
+PSEXMIN: 307.06 ± 240.89
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1654.17
+  Away: 3023.53
+  Difference: -1369.36 (-45.3%)
+Distaltaintensidadem:
+  Home: 53.33
+  Away: 93.76
+  Difference: -40.43 (-43.1%)
+MinutosTotais:
+  Home: 56.48
+  Away: 69.98
+  Difference: -13.49 (-19.3%)
+DES:
+  Home: 28.00
+  Away: 36.24
+  Difference: -8.24 (-22.7%)
+ACE:
+  Home: 13.11
+  Away: 14.76
+  Difference: -1.65 (-11.2%)
+Trimp:
+  Home: 64.00
+  Away: 114.24
+  Difference: -50.24 (-44.0%)
+PSEXMIN:
+  Home: 263.77
+  Away: 350.35
+  Difference: -86.58 (-24.7%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 2096.80 ± 1355.27
+Distaltaintensidadem: 76.20 ± 103.26
+MinutosTotais: 73.49 ± 28.22
+DES: 35.30 ± 19.23
+ACE: 15.70 ± 9.10
+Trimp: 82.83 ± 65.67
+PSEXMIN: 300.83 ± 203.67
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 1170.50 ± 54.45
+Distaltaintensidadem: 8.50 ± 9.19
+MinutosTotais: 48.19 ± 2.08
+DES: 22.00 ± 12.73
+ACE: 8.00 ± 4.24
+Trimp: 38.79 ± 4.99
+PSEXMIN: 144.57 ± 6.24
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 2400.89 ± 2138.37
+Distaltaintensidadem: 69.89 ± 101.68
+MinutosTotais: 59.25 ± 37.60
+DES: 30.47 ± 31.60
+ACE: 13.63 ± 14.97
+Trimp: 88.40 ± 86.73
+PSEXMIN: 327.47 ± 261.54
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 3062.25 ± 4016.18
+Distaltaintensidadem: 111.75 ± 214.92
+MinutosTotais: 62.33 ± 25.16
+DES: 36.00 ± 36.18
+ACE: 13.75 ± 13.05
+Trimp: 127.17 ± 184.11
+PSEXMIN: 312.04 ± 325.50
+
+Performance Trends:
+Disttotalm: -3597.00 (-78.7%)
+Distaltaintensidadem: -31.00 (-70.5%)
+MinutosTotais: -72.01 (-59.5%)
+DES: -27.00 (-47.4%)
+ACE: +1.00 (+7.1%)
+Trimp: -181.58 (-79.3%)
+PSEXMIN: -458.24 (-75.7%)
+
+================================================================================
+
+Player: ROBINHO
+----------------------------------------
+Position: ATACANTE
+Total Games: 22
+Home Games: 11
+Away Games: 11
+
+Overall Performance (Mean ± Std):
+Disttotalm: 2922.64 ± 2143.22
+Distaltaintensidadem: 138.91 ± 134.18
+MinutosTotais: 51.80 ± 15.13
+DES: 35.00 ± 25.76
+ACE: 11.18 ± 9.92
+Trimp: 110.80 ± 83.59
+PSEXMIN: 254.92 ± 154.28
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 2620.00
+  Away: 3225.27
+  Difference: -605.27 (-18.8%)
+Distaltaintensidadem:
+  Home: 109.64
+  Away: 168.18
+  Difference: -58.55 (-34.8%)
+MinutosTotais:
+  Home: 49.51
+  Away: 54.10
+  Difference: -4.59 (-8.5%)
+DES:
+  Home: 31.64
+  Away: 38.36
+  Difference: -6.73 (-17.5%)
+ACE:
+  Home: 13.00
+  Away: 9.36
+  Difference: 3.64 (+38.8%)
+Trimp:
+  Home: 108.22
+  Away: 113.38
+  Difference: -5.17 (-4.6%)
+PSEXMIN:
+  Home: 219.53
+  Away: 290.32
+  Difference: -70.78 (-24.4%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (18 games)
+Disttotalm: 3189.33 ± 2245.48
+Distaltaintensidadem: 158.61 ± 138.65
+MinutosTotais: 52.17 ± 16.78
+DES: 37.11 ± 28.03
+ACE: 12.33 ± 10.59
+Trimp: 121.56 ± 87.89
+PSEXMIN: 278.13 ± 162.06
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 1722.50 ± 1110.95
+Distaltaintensidadem: 50.25 ± 65.51
+MinutosTotais: 50.17 ± 1.44
+DES: 25.50 ± 6.56
+ACE: 6.00 ± 2.94
+Trimp: 62.38 ± 36.28
+PSEXMIN: 150.51 ± 4.32
+
+Performance Trends:
+Disttotalm: -1722.00 (-66.0%)
+Distaltaintensidadem: -250.00 (-98.8%)
+MinutosTotais: -32.74 (-40.0%)
+DES: -62.00 (-72.1%)
+ACE: -18.00 (-78.3%)
+Trimp: -65.27 (-64.8%)
+PSEXMIN: -261.85 (-64.0%)
+
+================================================================================
+
+Player: RUY
+----------------------------------------
+Position: MEIA
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 4617.23 ± 3762.37
+Distaltaintensidadem: 242.29 ± 242.58
+MinutosTotais: 57.42 ± 34.93
+DES: 52.46 ± 42.23
+ACE: 15.06 ± 11.61
+Trimp: 174.78 ± 152.16
+PSEXMIN: 370.84 ± 283.71
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 4259.67
+  Away: 4995.82
+  Difference: -736.16 (-14.7%)
+Distaltaintensidadem:
+  Home: 190.11
+  Away: 297.53
+  Difference: -107.42 (-36.1%)
+MinutosTotais:
+  Home: 51.54
+  Away: 63.65
+  Difference: -12.11 (-19.0%)
+DES:
+  Home: 53.33
+  Away: 51.53
+  Difference: 1.80 (+3.5%)
+ACE:
+  Home: 14.61
+  Away: 15.53
+  Difference: -0.92 (-5.9%)
+Trimp:
+  Home: 154.36
+  Away: 196.41
+  Difference: -42.05 (-21.4%)
+PSEXMIN:
+  Home: 339.26
+  Away: 404.28
+  Difference: -65.02 (-16.1%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 2659.10 ± 639.80
+Distaltaintensidadem: 93.30 ± 70.97
+MinutosTotais: 60.68 ± 19.41
+DES: 50.90 ± 22.48
+ACE: 18.90 ± 10.04
+Trimp: 99.57 ± 26.29
+PSEXMIN: 257.58 ± 102.31
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 5198.50 ± 1959.39
+Distaltaintensidadem: 320.50 ± 105.36
+MinutosTotais: 71.25 ± 34.69
+DES: 63.00 ± 8.49
+ACE: 18.50 ± 2.12
+Trimp: 204.44 ± 55.71
+PSEXMIN: 452.02 ± 308.88
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 6424.84 ± 4112.32
+Distaltaintensidadem: 363.05 ± 258.42
+MinutosTotais: 60.65 ± 39.75
+DES: 61.68 ± 50.20
+ACE: 15.26 ± 12.48
+Trimp: 242.53 ± 172.53
+PSEXMIN: 467.45 ± 324.47
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 635.75 ± 1271.50
+Distaltaintensidadem: 2.00 ± 4.00
+MinutosTotais: 27.00 ± 36.82
+DES: 7.25 ± 14.50
+ACE: 2.75 ± 5.50
+Trimp: 26.17 ± 52.34
+PSEXMIN: 154.50 ± 220.64
+
+Performance Trends:
+Disttotalm: -2023.00 (-100.0%)
+Distaltaintensidadem: -27.00 (-100.0%)
+MinutosTotais: -64.30 (-100.0%)
+DES: -47.00 (-100.0%)
+ACE: -21.00 (-100.0%)
+Trimp: -85.17 (-100.0%)
+PSEXMIN: -321.50 (-100.0%)
+
+================================================================================
+
+Player: SERGINHO
+----------------------------------------
+Position: MEIA
+Total Games: 11
+Home Games: 6
+Away Games: 5
+
+Overall Performance (Mean ± Std):
+Disttotalm: 9676.18 ± 3259.78
+Distaltaintensidadem: 440.64 ± 227.20
+MinutosTotais: 94.78 ± 42.58
+DES: 106.73 ± 42.37
+ACE: 33.27 ± 15.93
+Trimp: 350.96 ± 119.84
+PSEXMIN: 861.64 ± 384.18
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 10628.67
+  Away: 8533.20
+  Difference: 2095.47 (+24.6%)
+Distaltaintensidadem:
+  Home: 548.33
+  Away: 311.40
+  Difference: 236.93 (+76.1%)
+MinutosTotais:
+  Home: 94.59
+  Away: 95.02
+  Difference: -0.43 (-0.5%)
+DES:
+  Home: 123.83
+  Away: 86.20
+  Difference: 37.63 (+43.7%)
+ACE:
+  Home: 41.17
+  Away: 23.80
+  Difference: 17.37 (+73.0%)
+Trimp:
+  Home: 375.87
+  Away: 321.06
+  Difference: 54.81 (+17.1%)
+PSEXMIN:
+  Home: 851.30
+  Away: 874.04
+  Difference: -22.74 (-2.6%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 10643.80 ± 602.82
+Distaltaintensidadem: 484.70 ± 183.37
+MinutosTotais: 104.26 ± 30.27
+DES: 117.40 ± 24.55
+ACE: 36.60 ± 12.10
+Trimp: 386.06 ± 30.03
+PSEXMIN: 947.80 ± 270.66
+
+Coach: Ricardo Drubscky (1 games)
+Disttotalm: 0.00 ± nan
+Distaltaintensidadem: 0.00 ± nan
+MinutosTotais: 0.00 ± nan
+DES: 0.00 ± nan
+ACE: 0.00 ± nan
+Trimp: 0.00 ± nan
+PSEXMIN: 0.00 ± nan
+
+Performance Trends:
+Disttotalm: -11303.00 (-100.0%)
+Distaltaintensidadem: -882.00 (-100.0%)
+MinutosTotais: -95.43 (-100.0%)
+DES: -148.00 (-100.0%)
+ACE: -58.00 (-100.0%)
+Trimp: -409.32 (-100.0%)
+PSEXMIN: -858.90 (-100.0%)
+
+================================================================================
+
+Player: WESLEY
+----------------------------------------
+Position: VOLANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 3343.66 ± 3744.44
+Distaltaintensidadem: 122.95 ± 182.96
+MinutosTotais: 51.57 ± 29.34
+DES: 31.10 ± 37.47
+ACE: 7.91 ± 9.32
+Trimp: 115.44 ± 141.11
+PSEXMIN: 245.45 ± 206.25
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 2634.17
+  Away: 4094.90
+  Difference: -1460.73 (-35.7%)
+Distaltaintensidadem:
+  Home: 81.17
+  Away: 167.19
+  Difference: -86.02 (-51.5%)
+MinutosTotais:
+  Home: 49.20
+  Away: 54.09
+  Difference: -4.88 (-9.0%)
+DES:
+  Home: 21.06
+  Away: 41.74
+  Difference: -20.68 (-49.6%)
+ACE:
+  Home: 7.22
+  Away: 8.65
+  Difference: -1.42 (-16.5%)
+Trimp:
+  Home: 91.72
+  Away: 140.55
+  Difference: -48.83 (-34.7%)
+PSEXMIN:
+  Home: 214.64
+  Away: 278.07
+  Difference: -63.43 (-22.8%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 2287.70 ± 3119.25
+Distaltaintensidadem: 85.20 ± 157.20
+MinutosTotais: 54.01 ± 27.58
+DES: 28.80 ± 35.46
+ACE: 6.30 ± 3.95
+Trimp: 70.58 ± 117.00
+PSEXMIN: 259.48 ± 233.36
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 8646.72 ± 706.71
+Distaltaintensidadem: 391.61 ± 198.85
+MinutosTotais: 80.75 ± 0.05
+DES: 83.78 ± 22.31
+ACE: 18.00 ± 7.07
+Trimp: 300.78 ± 28.85
+PSEXMIN: 484.49 ± 0.27
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 3828.31 ± 3989.11
+Distaltaintensidadem: 140.42 ± 190.22
+MinutosTotais: 50.41 ± 27.13
+DES: 29.84 ± 38.88
+ACE: 8.68 ± 11.44
+Trimp: 134.92 ± 152.77
+PSEXMIN: 236.47 ± 195.49
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 1030.00 ± 1726.04
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 36.43 ± 46.43
+DES: 16.50 ± 27.33
+ACE: 3.25 ± 5.25
+Trimp: 42.37 ± 71.85
+PSEXMIN: 133.51 ± 182.98
+
+Performance Trends:
+Disttotalm: -1375.00 (-100.0%)
+Distaltaintensidadem: -9.00 (-100.0%)
+MinutosTotais: -64.30 (-100.0%)
+DES: -15.00 (-100.0%)
+ACE: -8.00 (-100.0%)
+Trimp: -21.22 (-100.0%)
+PSEXMIN: -321.50 (-100.0%)
+
+================================================================================
+
+Player: WESLEY PACHECO
+----------------------------------------
+Position: ATACANTE
+Total Games: 22
+Home Games: 11
+Away Games: 11
+
+Overall Performance (Mean ± Std):
+Disttotalm: 1603.94 ± 1647.65
+Distaltaintensidadem: 79.30 ± 146.37
+MinutosTotais: 50.11 ± 13.35
+DES: 23.80 ± 24.37
+ACE: 10.42 ± 12.87
+Trimp: 75.14 ± 73.66
+PSEXMIN: 191.35 ± 107.15
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 1580.97
+  Away: 1626.91
+  Difference: -45.94 (-2.8%)
+Distaltaintensidadem:
+  Home: 90.06
+  Away: 68.55
+  Difference: 21.52 (+31.4%)
+MinutosTotais:
+  Home: 53.06
+  Away: 47.16
+  Difference: 5.89 (+12.5%)
+DES:
+  Home: 29.88
+  Away: 17.73
+  Difference: 12.15 (+68.5%)
+ACE:
+  Home: 14.30
+  Away: 6.55
+  Difference: 7.76 (+118.5%)
+Trimp:
+  Home: 77.99
+  Away: 72.29
+  Difference: 5.71 (+7.9%)
+PSEXMIN:
+  Home: 205.23
+  Away: 177.46
+  Difference: 27.77 (+15.6%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (18 games)
+Disttotalm: 1792.76 ± 1769.04
+Distaltaintensidadem: 96.81 ± 157.09
+MinutosTotais: 50.10 ± 14.83
+DES: 26.20 ± 26.34
+ACE: 11.91 ± 13.82
+Trimp: 86.19 ± 77.35
+PSEXMIN: 200.42 ± 117.05
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 754.25 ± 304.84
+Distaltaintensidadem: 0.50 ± 1.00
+MinutosTotais: 50.17 ± 1.44
+DES: 13.00 ± 5.83
+ACE: 3.75 ± 2.06
+Trimp: 25.41 ± 7.03
+PSEXMIN: 150.51 ± 4.32
+
+Performance Trends:
+Disttotalm: +601.00 (+0.0%)
+Distaltaintensidadem: +2.00 (+0.0%)
+MinutosTotais: +49.09 (+0.0%)
+DES: +18.00 (+0.0%)
+ACE: +6.00 (+0.0%)
+Trimp: +33.15 (+0.0%)
+PSEXMIN: +147.26 (+0.0%)
+
+================================================================================
+
+Player: YNAIÃ
+----------------------------------------
+Position: LATERAL
+Total Games: 2
+Home Games: 1
+Away Games: 1
+
+Overall Performance (Mean ± Std):
+Disttotalm: 1838.00 ± 2599.32
+Distaltaintensidadem: 334.50 ± 473.05
+MinutosTotais: 61.83 ± 87.43
+DES: 13.50 ± 19.09
+ACE: 3.50 ± 4.95
+Trimp: 0.00 ± 0.00
+PSEXMIN: 309.12 ± 437.17
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 3676.00
+  Away: 0.00
+  Difference: 3676.00 (+0.0%)
+Distaltaintensidadem:
+  Home: 669.00
+  Away: 0.00
+  Difference: 669.00 (+0.0%)
+MinutosTotais:
+  Home: 123.65
+  Away: 0.00
+  Difference: 123.65 (+0.0%)
+DES:
+  Home: 27.00
+  Away: 0.00
+  Difference: 27.00 (+0.0%)
+ACE:
+  Home: 7.00
+  Away: 0.00
+  Difference: 7.00 (+0.0%)
+Trimp:
+  Home: 0.00
+  Away: 0.00
+  Difference: 0.00 (+0.0%)
+PSEXMIN:
+  Home: 618.25
+  Away: 0.00
+  Difference: 618.25 (+0.0%)
+
+Performance Under Different Coaches:
+
+Coach: Adilson Batista (2 games)
+Disttotalm: 1838.00 ± 2599.32
+Distaltaintensidadem: 334.50 ± 473.05
+MinutosTotais: 61.83 ± 87.43
+DES: 13.50 ± 19.09
+ACE: 3.50 ± 4.95
+Trimp: 0.00 ± 0.00
+PSEXMIN: 309.12 ± 437.17
+
+Performance Trends:
+Disttotalm: -3676.00 (-100.0%)
+Distaltaintensidadem: -669.00 (-100.0%)
+MinutosTotais: -123.65 (-100.0%)
+DES: -27.00 (-100.0%)
+ACE: -7.00 (-100.0%)
+Trimp: +0.00 (+0.0%)
+PSEXMIN: -618.25 (-100.0%)
+
+================================================================================
+
+Player: ZÉ RICARDO
+----------------------------------------
+Position: VOLANTE
+Total Games: 35
+Home Games: 18
+Away Games: 17
+
+Overall Performance (Mean ± Std):
+Disttotalm: 4360.52 ± 3959.30
+Distaltaintensidadem: 215.37 ± 279.98
+MinutosTotais: 66.84 ± 27.23
+DES: 56.72 ± 42.44
+ACE: 20.97 ± 14.17
+Trimp: 165.45 ± 152.87
+PSEXMIN: 418.19 ± 330.05
+
+Home vs Away Performance:
+Disttotalm:
+  Home: 4176.90
+  Away: 4554.94
+  Difference: -378.04 (-8.3%)
+Distaltaintensidadem:
+  Home: 158.49
+  Away: 275.59
+  Difference: -117.10 (-42.5%)
+MinutosTotais:
+  Home: 59.90
+  Away: 74.19
+  Difference: -14.28 (-19.3%)
+DES:
+  Home: 59.90
+  Away: 53.35
+  Difference: 6.55 (+12.3%)
+ACE:
+  Home: 22.33
+  Away: 19.53
+  Difference: 2.80 (+14.4%)
+Trimp:
+  Home: 158.52
+  Away: 172.78
+  Difference: -14.26 (-8.3%)
+PSEXMIN:
+  Home: 372.81
+  Away: 466.25
+  Difference: -93.45 (-20.0%)
+
+Performance Under Different Coaches:
+
+Coach: Enderson Moreira (10 games)
+Disttotalm: 1948.42 ± 1271.81
+Distaltaintensidadem: 85.28 ± 112.42
+MinutosTotais: 61.70 ± 31.34
+DES: 32.82 ± 17.02
+ACE: 13.10 ± 8.44
+Trimp: 66.56 ± 50.87
+PSEXMIN: 266.93 ± 199.44
+
+Coach: Ricardo Drubscky (2 games)
+Disttotalm: 892.50 ± 43.13
+Distaltaintensidadem: 0.00 ± 0.00
+MinutosTotais: 48.19 ± 2.08
+DES: 18.00 ± 5.66
+ACE: 8.50 ± 3.54
+Trimp: 25.23 ± 7.84
+PSEXMIN: 144.57 ± 6.24
+
+Coach: Adilson Batista (19 games)
+Disttotalm: 5112.95 ± 4136.35
+Distaltaintensidadem: 281.37 ± 331.79
+MinutosTotais: 66.18 ± 26.41
+DES: 65.05 ± 45.16
+ACE: 24.53 ± 14.55
+Trimp: 196.98 ± 157.28
+PSEXMIN: 446.20 ± 344.30
+
+Coach: Givanildo Oliveira (4 games)
+Disttotalm: 8550.75 ± 3967.86
+Distaltaintensidadem: 334.75 ± 236.78
+MinutosTotais: 92.15 ± 9.70
+DES: 96.25 ± 43.19
+ACE: 30.00 ± 16.99
+Trimp: 332.98 ± 138.72
+PSEXMIN: 800.17 ± 279.71
+
+Performance Trends:
+Disttotalm: +8216.00 (+294.8%)
+Distaltaintensidadem: +257.00 (+183.6%)
+MinutosTotais: +31.09 (+48.4%)
+DES: +93.00 (+221.4%)
+ACE: +27.00 (+168.8%)
+Trimp: +285.03 (+249.3%)
+PSEXMIN: +537.04 (+167.0%)
+
+================================================================================
+
+
+TEAM OVERALL STATISTICS
+================================================================================
+
+Team Home vs Away Performance:
+Disttotalm:
+  Home: 3398.64
+  Away: 3794.80
+  Difference: -396.15 (-10.4%)
+Distaltaintensidadem:
+  Home: 160.34
+  Away: 181.25
+  Difference: -20.91 (-11.5%)
+MinutosTotais:
+  Home: 53.57
+  Away: 62.84
+  Difference: -9.28 (-14.8%)
+DES:
+  Home: 38.30
+  Away: 39.91
+  Difference: -1.61 (-4.0%)
+ACE:
+  Home: 12.91
+  Away: 11.65
+  Difference: 1.26 (+10.8%)
+Trimp:
+  Home: 130.69
+  Away: 142.85
+  Difference: -12.16 (-8.5%)
+PSEXMIN:
+  Home: 320.23
+  Away: 405.07
+  Difference: -84.84 (-20.9%)
+
+Average Performance by Position:
+           Disttotalm  Distaltaintensidadem  MinutosTotais        DES        ACE       Trimp     PSEXMIN
+Posicao                                                                                                 
+ATACANTE  3501.937020            194.203972      59.815289  39.591946  13.431534  129.370401  361.675470
+GOLEIRO      0.000000              0.000000      41.675655   0.000000   0.000000    0.000000  204.389538
+LATERAL   5160.086957            292.886128      64.750728  58.129400  17.200828  195.706798  414.097361
+MEIA      4321.081227            225.516535      59.896206  49.086614  17.248819  151.495512  383.749745
+VOLANTE   4986.173934            213.538796      67.798016  55.799553  15.932184  181.448797  412.044099
+ZAGUEIRO  3782.654167            122.426042      59.808832  36.104167  11.805208  161.973437  403.372321
+Average minutes played in match days: 58.06 minutes
+
+Average minutes played by position in match days:
+VOLANTE: 67.80 minutes
+LATERAL: 64.75 minutes
+MEIA: 59.90 minutes
+ATACANTE: 59.82 minutes
+ZAGUEIRO: 59.81 minutes
+GOLEIRO: 41.68 minutes
